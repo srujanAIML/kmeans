@@ -1,0 +1,2001 @@
+Review_ID,Product,Category,Brand,Review_Text,Rating,Verified_Purchase,Review_Length
+1,Smartphone,Electronics,Nike,Nike Smartphone is average product,3,Yes,5
+2,Camera,Electronics,Samsung,Samsung Camera is worth the price,4,Yes,6
+3,Smartwatch,Electronics,HP,HP Smartwatch is very good quality,4,No,6
+4,Smartphone,Accessories,Sony,Sony Smartphone is not bad,3,No,5
+5,Smartwatch,Electronics,Adidas,Adidas Smartwatch is product stopped working,1,Yes,6
+6,Backpack,Electronics,Nike,Nike Backpack is waste of money,2,No,6
+7,Camera,Accessories,Apple,Apple Camera is average product,3,No,5
+8,Backpack,Accessories,Boat,Boat Backpack is could be better,3,Yes,6
+9,Laptop,Electronics,Boat,Boat Laptop is very good quality,5,No,6
+10,Headphones,Fashion,Adidas,Adidas Headphones is cheap material,2,Yes,5
+11,Laptop,Accessories,Sony,Sony Laptop is not bad,3,Yes,5
+12,Shoes,Accessories,Boat,Boat Shoes is great value for money,5,No,7
+13,Backpack,Fashion,HP,HP Backpack is very good quality,4,Yes,6
+14,Tablet,Accessories,HP,HP Tablet is awesome performance,4,No,5
+15,Smartwatch,Accessories,Nike,Nike Smartwatch is loved it,4,No,5
+16,Backpack,Electronics,Boat,Boat Backpack is decent performance,3,No,5
+17,Headphones,Accessories,Sony,Sony Headphones is excellent product,4,No,5
+18,Camera,Accessories,HP,HP Camera is average product,3,No,5
+19,Smartphone,Accessories,Apple,Apple Smartphone is not bad,3,No,5
+20,Laptop,Fashion,Nike,Nike Laptop is not bad,3,Yes,5
+21,Headphones,Accessories,Apple,Apple Headphones is poor quality,2,No,5
+22,Smartwatch,Fashion,Sony,Sony Smartwatch is could be better,3,Yes,6
+23,Smartphone,Fashion,Adidas,Adidas Smartphone is could be better,3,Yes,6
+24,Smartwatch,Electronics,Samsung,Samsung Smartwatch is awesome performance,5,Yes,5
+25,Headphones,Accessories,Sony,Sony Headphones is great value for money,4,No,7
+26,Shoes,Electronics,HP,HP Shoes is okay for the price,3,Yes,7
+27,Camera,Fashion,Adidas,Adidas Camera is not bad,3,No,5
+28,Laptop,Electronics,Adidas,Adidas Laptop is very good quality,4,Yes,6
+29,Smartphone,Accessories,Apple,Apple Smartphone is okay for the price,3,Yes,7
+30,Backpack,Accessories,Apple,Apple Backpack is worth the price,4,Yes,6
+31,Headphones,Electronics,Dell,Dell Headphones is cheap material,1,No,5
+32,Laptop,Fashion,HP,HP Laptop is bad experience,1,No,5
+33,Laptop,Fashion,Samsung,Samsung Laptop is cheap material,1,No,5
+34,Smartwatch,Electronics,Dell,Dell Smartwatch is very good quality,4,No,6
+35,Smartwatch,Fashion,Apple,Apple Smartwatch is loved it,5,Yes,5
+36,Smartwatch,Fashion,Sony,Sony Smartwatch is excellent product,4,No,5
+37,Smartphone,Fashion,Sony,Sony Smartphone is bad experience,2,Yes,5
+38,Shoes,Accessories,HP,HP Shoes is product stopped working,2,No,6
+39,Smartwatch,Accessories,Samsung,Samsung Smartwatch is very good quality,5,Yes,6
+40,Smartphone,Accessories,Samsung,Samsung Smartphone is not bad,3,No,5
+41,Headphones,Accessories,Samsung,Samsung Headphones is could be better,3,Yes,6
+42,Smartwatch,Electronics,HP,HP Smartwatch is worth the price,4,Yes,6
+43,Smartphone,Fashion,Apple,Apple Smartphone is could be better,3,No,6
+44,Smartwatch,Fashion,Nike,Nike Smartwatch is bad experience,2,Yes,5
+45,Tablet,Electronics,Adidas,Adidas Tablet is not bad,3,Yes,5
+46,Smartwatch,Electronics,Nike,Nike Smartwatch is waste of money,1,No,6
+47,Shoes,Fashion,Sony,Sony Shoes is very good quality,5,No,6
+48,Smartphone,Accessories,Nike,Nike Smartphone is could be better,3,Yes,6
+49,Laptop,Fashion,Sony,Sony Laptop is loved it,4,No,5
+50,Backpack,Accessories,Boat,Boat Backpack is okay for the price,3,No,7
+51,Shoes,Electronics,Samsung,Samsung Shoes is decent performance,3,No,5
+52,Backpack,Accessories,Sony,Sony Backpack is poor quality,1,No,5
+53,Smartphone,Electronics,Apple,Apple Smartphone is great value for money,5,Yes,7
+54,Backpack,Fashion,Sony,Sony Backpack is average product,3,Yes,5
+55,Smartphone,Electronics,Adidas,Adidas Smartphone is loved it,5,Yes,5
+56,Backpack,Accessories,HP,HP Backpack is average product,3,Yes,5
+57,Camera,Electronics,Samsung,Samsung Camera is highly recommended,4,No,5
+58,Headphones,Fashion,Apple,Apple Headphones is bad experience,2,Yes,5
+59,Tablet,Fashion,Adidas,Adidas Tablet is bad experience,1,Yes,5
+60,Camera,Fashion,Adidas,Adidas Camera is excellent product,4,Yes,5
+61,Backpack,Electronics,Samsung,Samsung Backpack is very disappointed,2,No,5
+62,Laptop,Fashion,HP,HP Laptop is loved it,4,No,5
+63,Smartwatch,Electronics,Nike,Nike Smartwatch is waste of money,2,No,6
+64,Camera,Accessories,Apple,Apple Camera is very good quality,5,No,6
+65,Laptop,Accessories,Nike,Nike Laptop is not bad,3,No,5
+66,Backpack,Accessories,HP,HP Backpack is decent performance,3,No,5
+67,Smartwatch,Accessories,HP,HP Smartwatch is okay for the price,3,No,7
+68,Shoes,Accessories,HP,HP Shoes is okay for the price,3,Yes,7
+69,Camera,Fashion,Adidas,Adidas Camera is product stopped working,1,No,6
+70,Headphones,Fashion,Apple,Apple Headphones is bad experience,2,No,5
+71,Smartwatch,Electronics,Boat,Boat Smartwatch is very good quality,5,Yes,6
+72,Laptop,Fashion,Dell,Dell Laptop is very good quality,5,Yes,6
+73,Tablet,Electronics,HP,HP Tablet is decent performance,3,Yes,5
+74,Laptop,Electronics,HP,HP Laptop is average product,3,Yes,5
+75,Tablet,Accessories,Samsung,Samsung Tablet is could be better,3,Yes,6
+76,Tablet,Fashion,Adidas,Adidas Tablet is great value for money,4,No,7
+77,Headphones,Fashion,Dell,Dell Headphones is decent performance,3,No,5
+78,Smartwatch,Fashion,Nike,Nike Smartwatch is loved it,5,Yes,5
+79,Smartwatch,Fashion,Nike,Nike Smartwatch is not bad,3,No,5
+80,Headphones,Electronics,Sony,Sony Headphones is average product,3,No,5
+81,Smartwatch,Fashion,Apple,Apple Smartwatch is okay for the price,3,No,7
+82,Smartphone,Fashion,Boat,Boat Smartphone is cheap material,2,No,5
+83,Camera,Electronics,Dell,Dell Camera is average product,3,No,5
+84,Smartwatch,Electronics,Dell,Dell Smartwatch is late delivery,2,No,5
+85,Camera,Accessories,Adidas,Adidas Camera is cheap material,1,No,5
+86,Tablet,Accessories,Sony,Sony Tablet is okay for the price,3,Yes,7
+87,Camera,Fashion,Sony,Sony Camera is poor quality,1,Yes,5
+88,Backpack,Fashion,Boat,Boat Backpack is loved it,5,No,5
+89,Camera,Electronics,Nike,Nike Camera is late delivery,2,No,5
+90,Smartwatch,Accessories,Apple,Apple Smartwatch is excellent product,5,Yes,5
+91,Smartphone,Electronics,Sony,Sony Smartphone is very good quality,4,Yes,6
+92,Tablet,Fashion,Nike,Nike Tablet is waste of money,1,Yes,6
+93,Laptop,Fashion,Sony,Sony Laptop is could be better,3,Yes,6
+94,Shoes,Fashion,HP,HP Shoes is average product,3,Yes,5
+95,Shoes,Accessories,Apple,Apple Shoes is very good quality,4,Yes,6
+96,Laptop,Electronics,Adidas,Adidas Laptop is late delivery,2,No,5
+97,Backpack,Accessories,Dell,Dell Backpack is waste of money,2,Yes,6
+98,Tablet,Fashion,Dell,Dell Tablet is not satisfied,2,No,5
+99,Shoes,Electronics,Dell,Dell Shoes is bad experience,1,No,5
+100,Camera,Electronics,Adidas,Adidas Camera is could be better,3,No,6
+101,Smartwatch,Fashion,Adidas,Adidas Smartwatch is not satisfied,2,No,5
+102,Smartwatch,Electronics,Apple,Apple Smartwatch is product stopped working,1,No,6
+103,Tablet,Electronics,Dell,Dell Tablet is bad experience,2,Yes,5
+104,Smartwatch,Accessories,Nike,Nike Smartwatch is bad experience,2,No,5
+105,Backpack,Accessories,Adidas,Adidas Backpack is very disappointed,2,No,5
+106,Smartwatch,Accessories,Apple,Apple Smartwatch is product stopped working,2,Yes,6
+107,Smartwatch,Accessories,Boat,Boat Smartwatch is waste of money,1,No,6
+108,Smartwatch,Electronics,Nike,Nike Smartwatch is product stopped working,1,No,6
+109,Headphones,Electronics,Nike,Nike Headphones is loved it,4,Yes,5
+110,Headphones,Electronics,Dell,Dell Headphones is not bad,3,Yes,5
+111,Tablet,Fashion,Dell,Dell Tablet is not bad,3,No,5
+112,Tablet,Electronics,Apple,Apple Tablet is excellent product,5,No,5
+113,Headphones,Accessories,Sony,Sony Headphones is waste of money,1,No,6
+114,Camera,Accessories,Boat,Boat Camera is very good quality,4,No,6
+115,Camera,Accessories,Nike,Nike Camera is cheap material,2,Yes,5
+116,Smartwatch,Fashion,Boat,Boat Smartwatch is average product,3,Yes,5
+117,Laptop,Electronics,Sony,Sony Laptop is very good quality,4,No,6
+118,Smartphone,Fashion,Boat,Boat Smartphone is cheap material,2,No,5
+119,Laptop,Fashion,Boat,Boat Laptop is decent performance,3,Yes,5
+120,Headphones,Electronics,Nike,Nike Headphones is waste of money,1,Yes,6
+121,Shoes,Electronics,Dell,Dell Shoes is highly recommended,5,No,5
+122,Camera,Accessories,Nike,Nike Camera is not bad,3,No,5
+123,Camera,Accessories,Adidas,Adidas Camera is waste of money,1,No,6
+124,Smartphone,Accessories,Nike,Nike Smartphone is worth the price,4,Yes,6
+125,Shoes,Accessories,Sony,Sony Shoes is great value for money,5,No,7
+126,Laptop,Fashion,Dell,Dell Laptop is decent performance,3,No,5
+127,Headphones,Fashion,Adidas,Adidas Headphones is very disappointed,1,No,5
+128,Tablet,Fashion,Apple,Apple Tablet is late delivery,1,No,5
+129,Smartphone,Fashion,Dell,Dell Smartphone is waste of money,2,Yes,6
+130,Tablet,Electronics,Samsung,Samsung Tablet is awesome performance,5,No,5
+131,Shoes,Accessories,Dell,Dell Shoes is okay for the price,3,No,7
+132,Headphones,Accessories,Nike,Nike Headphones is excellent product,4,Yes,5
+133,Laptop,Electronics,Boat,Boat Laptop is decent performance,3,No,5
+134,Shoes,Fashion,Nike,Nike Shoes is highly recommended,5,No,5
+135,Headphones,Electronics,HP,HP Headphones is bad experience,2,Yes,5
+136,Backpack,Electronics,Nike,Nike Backpack is loved it,5,No,5
+137,Tablet,Fashion,Sony,Sony Tablet is not bad,3,No,5
+138,Tablet,Electronics,Adidas,Adidas Tablet is very disappointed,2,Yes,5
+139,Smartwatch,Electronics,HP,HP Smartwatch is decent performance,3,No,5
+140,Camera,Accessories,HP,HP Camera is decent performance,3,Yes,5
+141,Backpack,Fashion,Apple,Apple Backpack is poor quality,1,Yes,5
+142,Smartphone,Fashion,Sony,Sony Smartphone is decent performance,3,Yes,5
+143,Backpack,Accessories,HP,HP Backpack is great value for money,5,Yes,7
+144,Tablet,Accessories,Samsung,Samsung Tablet is late delivery,2,Yes,5
+145,Laptop,Electronics,HP,HP Laptop is loved it,4,Yes,5
+146,Smartphone,Fashion,Samsung,Samsung Smartphone is not satisfied,2,Yes,5
+147,Camera,Electronics,Sony,Sony Camera is very disappointed,2,No,5
+148,Headphones,Electronics,Sony,Sony Headphones is okay for the price,3,No,7
+149,Tablet,Electronics,Sony,Sony Tablet is okay for the price,3,No,7
+150,Tablet,Accessories,Nike,Nike Tablet is not bad,3,Yes,5
+151,Laptop,Fashion,Dell,Dell Laptop is product stopped working,1,No,6
+152,Shoes,Fashion,Dell,Dell Shoes is decent performance,3,Yes,5
+153,Smartwatch,Accessories,HP,HP Smartwatch is cheap material,1,No,5
+154,Shoes,Accessories,Samsung,Samsung Shoes is not bad,3,No,5
+155,Tablet,Electronics,Nike,Nike Tablet is poor quality,1,No,5
+156,Headphones,Accessories,Apple,Apple Headphones is very good quality,5,Yes,6
+157,Backpack,Electronics,Sony,Sony Backpack is cheap material,1,No,5
+158,Smartwatch,Accessories,Sony,Sony Smartwatch is late delivery,1,No,5
+159,Shoes,Fashion,Sony,Sony Shoes is could be better,3,No,6
+160,Tablet,Electronics,Apple,Apple Tablet is very disappointed,1,Yes,5
+161,Backpack,Fashion,Apple,Apple Backpack is decent performance,3,Yes,5
+162,Backpack,Accessories,Nike,Nike Backpack is waste of money,2,No,6
+163,Laptop,Fashion,Boat,Boat Laptop is not bad,3,Yes,5
+164,Backpack,Accessories,Boat,Boat Backpack is could be better,3,Yes,6
+165,Shoes,Electronics,HP,HP Shoes is decent performance,3,Yes,5
+166,Tablet,Electronics,Apple,Apple Tablet is excellent product,5,Yes,5
+167,Camera,Fashion,Dell,Dell Camera is okay for the price,3,No,7
+168,Camera,Fashion,Apple,Apple Camera is okay for the price,3,No,7
+169,Smartwatch,Fashion,Dell,Dell Smartwatch is poor quality,2,Yes,5
+170,Backpack,Fashion,Samsung,Samsung Backpack is waste of money,2,No,6
+171,Laptop,Accessories,Boat,Boat Laptop is worth the price,5,Yes,6
+172,Headphones,Electronics,Boat,Boat Headphones is awesome performance,4,Yes,5
+173,Smartwatch,Electronics,Adidas,Adidas Smartwatch is okay for the price,3,Yes,7
+174,Shoes,Electronics,Sony,Sony Shoes is not satisfied,1,Yes,5
+175,Smartwatch,Electronics,Adidas,Adidas Smartwatch is excellent product,5,Yes,5
+176,Camera,Accessories,Apple,Apple Camera is poor quality,1,Yes,5
+177,Laptop,Accessories,Dell,Dell Laptop is cheap material,2,Yes,5
+178,Shoes,Accessories,Dell,Dell Shoes is average product,3,Yes,5
+179,Camera,Fashion,Apple,Apple Camera is great value for money,5,No,7
+180,Headphones,Electronics,Apple,Apple Headphones is worth the price,5,No,6
+181,Backpack,Accessories,HP,HP Backpack is could be better,3,No,6
+182,Laptop,Fashion,Boat,Boat Laptop is late delivery,1,No,5
+183,Tablet,Fashion,HP,HP Tablet is fast delivery,5,Yes,5
+184,Shoes,Electronics,Adidas,Adidas Shoes is late delivery,2,No,5
+185,Laptop,Electronics,HP,HP Laptop is worth the price,4,No,6
+186,Laptop,Fashion,HP,HP Laptop is excellent product,5,No,5
+187,Shoes,Fashion,Nike,Nike Shoes is average product,3,Yes,5
+188,Smartwatch,Accessories,Sony,Sony Smartwatch is could be better,3,No,6
+189,Backpack,Fashion,Apple,Apple Backpack is worth the price,5,Yes,6
+190,Smartphone,Fashion,Sony,Sony Smartphone is poor quality,2,No,5
+191,Headphones,Accessories,Sony,Sony Headphones is very disappointed,1,No,5
+192,Laptop,Fashion,Boat,Boat Laptop is highly recommended,4,No,5
+193,Backpack,Accessories,Nike,Nike Backpack is very disappointed,1,No,5
+194,Laptop,Electronics,Samsung,Samsung Laptop is could be better,3,Yes,6
+195,Laptop,Fashion,Nike,Nike Laptop is average product,3,No,5
+196,Shoes,Accessories,Boat,Boat Shoes is cheap material,2,Yes,5
+197,Shoes,Accessories,Dell,Dell Shoes is late delivery,1,No,5
+198,Smartphone,Electronics,Samsung,Samsung Smartphone is very good quality,5,No,6
+199,Shoes,Electronics,Adidas,Adidas Shoes is highly recommended,5,Yes,5
+200,Headphones,Accessories,HP,HP Headphones is late delivery,1,Yes,5
+201,Backpack,Fashion,Apple,Apple Backpack is could be better,3,Yes,6
+202,Laptop,Accessories,Adidas,Adidas Laptop is poor quality,2,No,5
+203,Camera,Electronics,Nike,Nike Camera is decent performance,3,No,5
+204,Tablet,Electronics,Adidas,Adidas Tablet is awesome performance,4,No,5
+205,Camera,Fashion,Apple,Apple Camera is very good quality,5,No,6
+206,Smartwatch,Electronics,Adidas,Adidas Smartwatch is not bad,3,Yes,5
+207,Smartwatch,Fashion,Adidas,Adidas Smartwatch is average product,3,Yes,5
+208,Shoes,Electronics,Boat,Boat Shoes is worth the price,4,Yes,6
+209,Headphones,Fashion,Dell,Dell Headphones is average product,3,No,5
+210,Backpack,Electronics,Adidas,Adidas Backpack is could be better,3,No,6
+211,Shoes,Accessories,Nike,Nike Shoes is great value for money,5,Yes,7
+212,Tablet,Electronics,Dell,Dell Tablet is waste of money,2,Yes,6
+213,Laptop,Fashion,HP,HP Laptop is product stopped working,1,Yes,6
+214,Tablet,Electronics,Sony,Sony Tablet is bad experience,2,No,5
+215,Headphones,Electronics,Samsung,Samsung Headphones is awesome performance,4,No,5
+216,Backpack,Fashion,Nike,Nike Backpack is not satisfied,2,No,5
+217,Laptop,Electronics,Adidas,Adidas Laptop is poor quality,2,No,5
+218,Backpack,Accessories,Apple,Apple Backpack is product stopped working,1,Yes,6
+219,Headphones,Fashion,Apple,Apple Headphones is product stopped working,2,No,6
+220,Headphones,Accessories,Apple,Apple Headphones is not bad,3,No,5
+221,Smartphone,Fashion,Adidas,Adidas Smartphone is not bad,3,Yes,5
+222,Smartwatch,Electronics,Boat,Boat Smartwatch is awesome performance,5,Yes,5
+223,Smartphone,Accessories,Adidas,Adidas Smartphone is loved it,4,Yes,5
+224,Headphones,Electronics,Sony,Sony Headphones is decent performance,3,Yes,5
+225,Smartphone,Fashion,HP,HP Smartphone is decent performance,3,Yes,5
+226,Smartwatch,Fashion,Boat,Boat Smartwatch is product stopped working,2,No,6
+227,Tablet,Fashion,Nike,Nike Tablet is awesome performance,5,No,5
+228,Shoes,Accessories,Samsung,Samsung Shoes is very good quality,4,No,6
+229,Shoes,Electronics,Apple,Apple Shoes is waste of money,1,No,6
+230,Laptop,Fashion,Boat,Boat Laptop is not satisfied,2,No,5
+231,Camera,Electronics,Adidas,Adidas Camera is fast delivery,4,No,5
+232,Smartphone,Electronics,Adidas,Adidas Smartphone is awesome performance,4,No,5
+233,Shoes,Accessories,Dell,Dell Shoes is highly recommended,4,Yes,5
+234,Tablet,Electronics,Samsung,Samsung Tablet is decent performance,3,Yes,5
+235,Camera,Fashion,Apple,Apple Camera is bad experience,1,Yes,5
+236,Smartwatch,Accessories,HP,HP Smartwatch is waste of money,1,No,6
+237,Smartphone,Accessories,Boat,Boat Smartphone is worth the price,5,Yes,6
+238,Backpack,Accessories,Boat,Boat Backpack is late delivery,1,No,5
+239,Laptop,Fashion,Samsung,Samsung Laptop is worth the price,5,No,6
+240,Shoes,Fashion,Samsung,Samsung Shoes is fast delivery,5,Yes,5
+241,Backpack,Electronics,Sony,Sony Backpack is bad experience,1,No,5
+242,Headphones,Accessories,Dell,Dell Headphones is not bad,3,No,5
+243,Headphones,Accessories,Apple,Apple Headphones is okay for the price,3,No,7
+244,Smartphone,Electronics,Boat,Boat Smartphone is loved it,4,No,5
+245,Shoes,Accessories,Samsung,Samsung Shoes is late delivery,2,Yes,5
+246,Backpack,Electronics,Nike,Nike Backpack is very disappointed,1,No,5
+247,Camera,Electronics,Adidas,Adidas Camera is late delivery,2,No,5
+248,Backpack,Electronics,Nike,Nike Backpack is decent performance,3,No,5
+249,Shoes,Electronics,Adidas,Adidas Shoes is fast delivery,4,Yes,5
+250,Tablet,Electronics,HP,HP Tablet is product stopped working,2,No,6
+251,Backpack,Fashion,HP,HP Backpack is cheap material,1,Yes,5
+252,Headphones,Electronics,Samsung,Samsung Headphones is fast delivery,5,No,5
+253,Smartwatch,Fashion,Adidas,Adidas Smartwatch is highly recommended,4,No,5
+254,Headphones,Fashion,Dell,Dell Headphones is average product,3,No,5
+255,Backpack,Fashion,HP,HP Backpack is waste of money,1,No,6
+256,Headphones,Accessories,Dell,Dell Headphones is worth the price,4,No,6
+257,Shoes,Accessories,Nike,Nike Shoes is average product,3,No,5
+258,Smartwatch,Electronics,Apple,Apple Smartwatch is loved it,5,Yes,5
+259,Laptop,Accessories,Adidas,Adidas Laptop is not satisfied,2,No,5
+260,Shoes,Electronics,Nike,Nike Shoes is average product,3,Yes,5
+261,Smartwatch,Electronics,Sony,Sony Smartwatch is bad experience,1,No,5
+262,Tablet,Accessories,Sony,Sony Tablet is awesome performance,5,Yes,5
+263,Tablet,Fashion,HP,HP Tablet is loved it,5,Yes,5
+264,Tablet,Accessories,Dell,Dell Tablet is awesome performance,4,No,5
+265,Camera,Electronics,Samsung,Samsung Camera is highly recommended,4,Yes,5
+266,Backpack,Fashion,Boat,Boat Backpack is not satisfied,1,No,5
+267,Shoes,Accessories,Sony,Sony Shoes is loved it,4,No,5
+268,Laptop,Accessories,Sony,Sony Laptop is could be better,3,Yes,6
+269,Smartphone,Electronics,Apple,Apple Smartphone is awesome performance,4,No,5
+270,Camera,Fashion,Samsung,Samsung Camera is okay for the price,3,No,7
+271,Tablet,Accessories,Boat,Boat Tablet is not bad,3,No,5
+272,Smartphone,Fashion,Sony,Sony Smartphone is cheap material,1,No,5
+273,Backpack,Fashion,Sony,Sony Backpack is cheap material,1,No,5
+274,Camera,Fashion,Sony,Sony Camera is not bad,3,Yes,5
+275,Laptop,Fashion,Nike,Nike Laptop is bad experience,2,Yes,5
+276,Shoes,Accessories,HP,HP Shoes is worth the price,4,No,6
+277,Backpack,Electronics,Boat,Boat Backpack is highly recommended,5,No,5
+278,Tablet,Fashion,Nike,Nike Tablet is decent performance,3,Yes,5
+279,Smartwatch,Accessories,Boat,Boat Smartwatch is fast delivery,5,No,5
+280,Tablet,Fashion,Dell,Dell Tablet is excellent product,5,Yes,5
+281,Shoes,Fashion,Adidas,Adidas Shoes is fast delivery,4,No,5
+282,Smartwatch,Accessories,Adidas,Adidas Smartwatch is fast delivery,4,No,5
+283,Shoes,Electronics,Apple,Apple Shoes is fast delivery,5,Yes,5
+284,Backpack,Electronics,Sony,Sony Backpack is very disappointed,2,No,5
+285,Smartphone,Electronics,Samsung,Samsung Smartphone is average product,3,No,5
+286,Headphones,Accessories,Adidas,Adidas Headphones is cheap material,1,No,5
+287,Backpack,Accessories,Dell,Dell Backpack is fast delivery,5,No,5
+288,Backpack,Fashion,Apple,Apple Backpack is poor quality,2,No,5
+289,Tablet,Accessories,Nike,Nike Tablet is average product,3,Yes,5
+290,Tablet,Accessories,Sony,Sony Tablet is average product,3,No,5
+291,Laptop,Electronics,Boat,Boat Laptop is very good quality,4,No,6
+292,Camera,Fashion,Boat,Boat Camera is late delivery,1,No,5
+293,Headphones,Accessories,Boat,Boat Headphones is average product,3,No,5
+294,Camera,Electronics,Adidas,Adidas Camera is decent performance,3,No,5
+295,Backpack,Accessories,Nike,Nike Backpack is not bad,3,No,5
+296,Shoes,Fashion,Boat,Boat Shoes is very good quality,5,No,6
+297,Tablet,Fashion,Adidas,Adidas Tablet is okay for the price,3,No,7
+298,Shoes,Accessories,Apple,Apple Shoes is not bad,3,No,5
+299,Shoes,Fashion,Samsung,Samsung Shoes is very disappointed,1,Yes,5
+300,Tablet,Electronics,Boat,Boat Tablet is cheap material,2,No,5
+301,Headphones,Accessories,Apple,Apple Headphones is not bad,3,Yes,5
+302,Smartwatch,Electronics,Samsung,Samsung Smartwatch is excellent product,4,No,5
+303,Headphones,Accessories,Samsung,Samsung Headphones is cheap material,1,Yes,5
+304,Smartwatch,Fashion,Nike,Nike Smartwatch is cheap material,2,No,5
+305,Laptop,Accessories,Boat,Boat Laptop is average product,3,Yes,5
+306,Smartphone,Fashion,HP,HP Smartphone is fast delivery,4,Yes,5
+307,Smartphone,Fashion,Samsung,Samsung Smartphone is not bad,3,Yes,5
+308,Tablet,Accessories,Sony,Sony Tablet is product stopped working,2,No,6
+309,Backpack,Accessories,Sony,Sony Backpack is bad experience,1,No,5
+310,Headphones,Accessories,Samsung,Samsung Headphones is not bad,3,No,5
+311,Camera,Accessories,HP,HP Camera is bad experience,1,No,5
+312,Headphones,Fashion,Sony,Sony Headphones is fast delivery,4,No,5
+313,Camera,Fashion,Boat,Boat Camera is excellent product,5,No,5
+314,Shoes,Accessories,Adidas,Adidas Shoes is product stopped working,1,Yes,6
+315,Shoes,Fashion,Sony,Sony Shoes is worth the price,5,No,6
+316,Shoes,Accessories,Adidas,Adidas Shoes is average product,3,Yes,5
+317,Headphones,Accessories,Dell,Dell Headphones is highly recommended,5,No,5
+318,Smartwatch,Accessories,Apple,Apple Smartwatch is cheap material,1,No,5
+319,Laptop,Electronics,Apple,Apple Laptop is not bad,3,Yes,5
+320,Headphones,Fashion,Sony,Sony Headphones is could be better,3,No,6
+321,Laptop,Electronics,Dell,Dell Laptop is very good quality,5,No,6
+322,Smartphone,Accessories,Dell,Dell Smartphone is fast delivery,5,No,5
+323,Camera,Electronics,Nike,Nike Camera is average product,3,Yes,5
+324,Smartphone,Fashion,HP,HP Smartphone is average product,3,Yes,5
+325,Laptop,Electronics,Dell,Dell Laptop is average product,3,No,5
+326,Camera,Fashion,Adidas,Adidas Camera is not satisfied,1,No,5
+327,Headphones,Electronics,Adidas,Adidas Headphones is late delivery,1,Yes,5
+328,Headphones,Electronics,Boat,Boat Headphones is decent performance,3,Yes,5
+329,Camera,Electronics,Boat,Boat Camera is cheap material,2,No,5
+330,Smartwatch,Electronics,Apple,Apple Smartwatch is not satisfied,2,No,5
+331,Smartwatch,Electronics,Boat,Boat Smartwatch is average product,3,Yes,5
+332,Tablet,Electronics,Samsung,Samsung Tablet is average product,3,Yes,5
+333,Smartwatch,Electronics,Samsung,Samsung Smartwatch is cheap material,1,No,5
+334,Smartwatch,Electronics,Nike,Nike Smartwatch is awesome performance,5,Yes,5
+335,Smartphone,Accessories,Sony,Sony Smartphone is product stopped working,2,No,6
+336,Smartphone,Accessories,Adidas,Adidas Smartphone is decent performance,3,No,5
+337,Camera,Electronics,HP,HP Camera is not bad,3,No,5
+338,Smartwatch,Fashion,Boat,Boat Smartwatch is not satisfied,2,Yes,5
+339,Camera,Fashion,Sony,Sony Camera is poor quality,2,Yes,5
+340,Laptop,Fashion,Dell,Dell Laptop is bad experience,2,Yes,5
+341,Smartphone,Fashion,Nike,Nike Smartphone is okay for the price,3,Yes,7
+342,Tablet,Fashion,Boat,Boat Tablet is very good quality,4,No,6
+343,Laptop,Electronics,Dell,Dell Laptop is very good quality,4,Yes,6
+344,Shoes,Fashion,HP,HP Shoes is bad experience,2,No,5
+345,Tablet,Electronics,Dell,Dell Tablet is product stopped working,2,No,6
+346,Backpack,Electronics,HP,HP Backpack is bad experience,2,Yes,5
+347,Smartphone,Accessories,Nike,Nike Smartphone is okay for the price,3,No,7
+348,Backpack,Fashion,Boat,Boat Backpack is not satisfied,1,Yes,5
+349,Tablet,Fashion,Dell,Dell Tablet is very disappointed,2,Yes,5
+350,Headphones,Accessories,Sony,Sony Headphones is not bad,3,No,5
+351,Laptop,Electronics,Samsung,Samsung Laptop is excellent product,4,No,5
+352,Headphones,Electronics,Samsung,Samsung Headphones is very good quality,4,No,6
+353,Tablet,Electronics,Samsung,Samsung Tablet is poor quality,2,No,5
+354,Shoes,Accessories,Samsung,Samsung Shoes is excellent product,5,No,5
+355,Headphones,Electronics,Boat,Boat Headphones is worth the price,4,No,6
+356,Laptop,Fashion,Adidas,Adidas Laptop is product stopped working,2,No,6
+357,Smartwatch,Accessories,Nike,Nike Smartwatch is okay for the price,3,Yes,7
+358,Laptop,Fashion,HP,HP Laptop is average product,3,No,5
+359,Smartphone,Accessories,Samsung,Samsung Smartphone is decent performance,3,Yes,5
+360,Backpack,Accessories,Apple,Apple Backpack is great value for money,5,Yes,7
+361,Shoes,Electronics,Samsung,Samsung Shoes is very good quality,5,No,6
+362,Smartphone,Fashion,Sony,Sony Smartphone is could be better,3,Yes,6
+363,Laptop,Electronics,Nike,Nike Laptop is highly recommended,5,Yes,5
+364,Backpack,Accessories,HP,HP Backpack is decent performance,3,Yes,5
+365,Backpack,Electronics,Samsung,Samsung Backpack is average product,3,No,5
+366,Camera,Electronics,Adidas,Adidas Camera is worth the price,5,No,6
+367,Backpack,Fashion,HP,HP Backpack is cheap material,1,Yes,5
+368,Camera,Accessories,Apple,Apple Camera is could be better,3,No,6
+369,Shoes,Fashion,Sony,Sony Shoes is worth the price,4,Yes,6
+370,Backpack,Electronics,Adidas,Adidas Backpack is decent performance,3,Yes,5
+371,Backpack,Electronics,Nike,Nike Backpack is loved it,5,Yes,5
+372,Tablet,Electronics,HP,HP Tablet is highly recommended,5,Yes,5
+373,Backpack,Electronics,HP,HP Backpack is awesome performance,4,No,5
+374,Smartwatch,Accessories,Sony,Sony Smartwatch is late delivery,1,No,5
+375,Shoes,Fashion,Nike,Nike Shoes is highly recommended,5,Yes,5
+376,Shoes,Fashion,HP,HP Shoes is highly recommended,5,No,5
+377,Smartwatch,Accessories,Dell,Dell Smartwatch is awesome performance,5,Yes,5
+378,Shoes,Fashion,Samsung,Samsung Shoes is waste of money,1,No,6
+379,Backpack,Fashion,Dell,Dell Backpack is decent performance,3,No,5
+380,Headphones,Fashion,Nike,Nike Headphones is could be better,3,Yes,6
+381,Camera,Fashion,Adidas,Adidas Camera is very disappointed,1,No,5
+382,Backpack,Fashion,HP,HP Backpack is okay for the price,3,No,7
+383,Headphones,Accessories,Samsung,Samsung Headphones is waste of money,1,No,6
+384,Tablet,Accessories,Nike,Nike Tablet is okay for the price,3,Yes,7
+385,Shoes,Fashion,Boat,Boat Shoes is cheap material,1,Yes,5
+386,Camera,Fashion,Apple,Apple Camera is decent performance,3,No,5
+387,Camera,Fashion,Samsung,Samsung Camera is decent performance,3,Yes,5
+388,Headphones,Accessories,Samsung,Samsung Headphones is very good quality,5,No,6
+389,Smartphone,Fashion,Apple,Apple Smartphone is late delivery,1,Yes,5
+390,Smartwatch,Fashion,Dell,Dell Smartwatch is could be better,3,No,6
+391,Smartphone,Electronics,Dell,Dell Smartphone is not satisfied,2,No,5
+392,Headphones,Fashion,Adidas,Adidas Headphones is waste of money,1,No,6
+393,Backpack,Electronics,Dell,Dell Backpack is bad experience,2,No,5
+394,Backpack,Fashion,Apple,Apple Backpack is decent performance,3,Yes,5
+395,Smartphone,Accessories,Adidas,Adidas Smartphone is average product,3,Yes,5
+396,Smartwatch,Accessories,Sony,Sony Smartwatch is okay for the price,3,Yes,7
+397,Smartwatch,Accessories,HP,HP Smartwatch is late delivery,2,Yes,5
+398,Smartphone,Fashion,Boat,Boat Smartphone is fast delivery,5,No,5
+399,Smartwatch,Accessories,Nike,Nike Smartwatch is poor quality,1,Yes,5
+400,Headphones,Fashion,Adidas,Adidas Headphones is average product,3,Yes,5
+401,Tablet,Accessories,Adidas,Adidas Tablet is waste of money,2,No,6
+402,Laptop,Fashion,Adidas,Adidas Laptop is decent performance,3,No,5
+403,Shoes,Accessories,Apple,Apple Shoes is okay for the price,3,Yes,7
+404,Shoes,Electronics,Apple,Apple Shoes is waste of money,1,No,6
+405,Camera,Accessories,HP,HP Camera is okay for the price,3,Yes,7
+406,Camera,Fashion,Sony,Sony Camera is decent performance,3,Yes,5
+407,Tablet,Electronics,Nike,Nike Tablet is okay for the price,3,Yes,7
+408,Backpack,Fashion,Samsung,Samsung Backpack is cheap material,1,Yes,5
+409,Camera,Fashion,Dell,Dell Camera is fast delivery,5,No,5
+410,Smartphone,Fashion,Boat,Boat Smartphone is not satisfied,1,Yes,5
+411,Headphones,Accessories,Dell,Dell Headphones is bad experience,2,No,5
+412,Laptop,Fashion,Apple,Apple Laptop is could be better,3,No,6
+413,Tablet,Fashion,Boat,Boat Tablet is average product,3,Yes,5
+414,Shoes,Fashion,Samsung,Samsung Shoes is okay for the price,3,No,7
+415,Laptop,Electronics,Boat,Boat Laptop is waste of money,2,No,6
+416,Camera,Accessories,Sony,Sony Camera is could be better,3,Yes,6
+417,Backpack,Accessories,Nike,Nike Backpack is very good quality,4,Yes,6
+418,Shoes,Electronics,Apple,Apple Shoes is product stopped working,2,No,6
+419,Headphones,Electronics,Boat,Boat Headphones is loved it,4,No,5
+420,Headphones,Accessories,Nike,Nike Headphones is fast delivery,5,No,5
+421,Laptop,Accessories,HP,HP Laptop is cheap material,1,No,5
+422,Tablet,Fashion,Dell,Dell Tablet is not bad,3,Yes,5
+423,Tablet,Electronics,Adidas,Adidas Tablet is average product,3,No,5
+424,Tablet,Fashion,Nike,Nike Tablet is fast delivery,4,No,5
+425,Backpack,Electronics,Samsung,Samsung Backpack is not satisfied,2,Yes,5
+426,Smartphone,Electronics,Apple,Apple Smartphone is decent performance,3,No,5
+427,Smartwatch,Accessories,Sony,Sony Smartwatch is poor quality,2,No,5
+428,Backpack,Electronics,Nike,Nike Backpack is loved it,4,No,5
+429,Smartphone,Accessories,HP,HP Smartphone is okay for the price,3,No,7
+430,Camera,Accessories,Apple,Apple Camera is okay for the price,3,Yes,7
+431,Laptop,Accessories,Sony,Sony Laptop is very good quality,5,Yes,6
+432,Smartphone,Accessories,Samsung,Samsung Smartphone is decent performance,3,No,5
+433,Tablet,Electronics,Apple,Apple Tablet is fast delivery,4,No,5
+434,Backpack,Fashion,Adidas,Adidas Backpack is worth the price,4,Yes,6
+435,Laptop,Accessories,Samsung,Samsung Laptop is not satisfied,1,Yes,5
+436,Headphones,Accessories,HP,HP Headphones is very disappointed,1,No,5
+437,Headphones,Accessories,Apple,Apple Headphones is worth the price,4,No,6
+438,Headphones,Fashion,Boat,Boat Headphones is late delivery,2,Yes,5
+439,Shoes,Accessories,Boat,Boat Shoes is loved it,4,Yes,5
+440,Shoes,Electronics,Samsung,Samsung Shoes is decent performance,3,No,5
+441,Tablet,Accessories,Apple,Apple Tablet is waste of money,1,Yes,6
+442,Camera,Fashion,HP,HP Camera is very disappointed,1,Yes,5
+443,Laptop,Fashion,Samsung,Samsung Laptop is waste of money,1,Yes,6
+444,Shoes,Fashion,HP,HP Shoes is excellent product,5,No,5
+445,Laptop,Electronics,Nike,Nike Laptop is highly recommended,5,Yes,5
+446,Laptop,Accessories,Nike,Nike Laptop is awesome performance,5,No,5
+447,Smartphone,Electronics,Boat,Boat Smartphone is okay for the price,3,No,7
+448,Shoes,Electronics,Sony,Sony Shoes is great value for money,4,Yes,7
+449,Smartphone,Fashion,Sony,Sony Smartphone is okay for the price,3,No,7
+450,Shoes,Fashion,Sony,Sony Shoes is could be better,3,Yes,6
+451,Laptop,Fashion,Samsung,Samsung Laptop is not bad,3,No,5
+452,Laptop,Fashion,Dell,Dell Laptop is waste of money,2,No,6
+453,Backpack,Fashion,Sony,Sony Backpack is great value for money,4,Yes,7
+454,Smartwatch,Electronics,Samsung,Samsung Smartwatch is average product,3,Yes,5
+455,Backpack,Electronics,HP,HP Backpack is excellent product,5,Yes,5
+456,Backpack,Fashion,Boat,Boat Backpack is fast delivery,4,No,5
+457,Laptop,Electronics,Samsung,Samsung Laptop is waste of money,2,Yes,6
+458,Camera,Fashion,Apple,Apple Camera is average product,3,No,5
+459,Tablet,Fashion,Samsung,Samsung Tablet is very disappointed,1,Yes,5
+460,Tablet,Accessories,Adidas,Adidas Tablet is product stopped working,1,No,6
+461,Smartphone,Electronics,HP,HP Smartphone is very good quality,4,Yes,6
+462,Smartphone,Electronics,Adidas,Adidas Smartphone is not bad,3,No,5
+463,Laptop,Accessories,Boat,Boat Laptop is not bad,3,Yes,5
+464,Headphones,Electronics,Nike,Nike Headphones is cheap material,1,Yes,5
+465,Tablet,Accessories,Apple,Apple Tablet is fast delivery,5,Yes,5
+466,Camera,Accessories,Apple,Apple Camera is okay for the price,3,Yes,7
+467,Shoes,Fashion,Nike,Nike Shoes is not satisfied,1,No,5
+468,Backpack,Fashion,Dell,Dell Backpack is not bad,3,Yes,5
+469,Laptop,Electronics,Sony,Sony Laptop is very good quality,4,Yes,6
+470,Camera,Accessories,Apple,Apple Camera is cheap material,2,No,5
+471,Tablet,Electronics,Nike,Nike Tablet is great value for money,5,Yes,7
+472,Smartwatch,Electronics,Adidas,Adidas Smartwatch is loved it,4,Yes,5
+473,Backpack,Accessories,HP,HP Backpack is okay for the price,3,Yes,7
+474,Shoes,Electronics,Sony,Sony Shoes is not bad,3,No,5
+475,Tablet,Electronics,Apple,Apple Tablet is bad experience,1,Yes,5
+476,Headphones,Fashion,Boat,Boat Headphones is excellent product,4,No,5
+477,Shoes,Electronics,Apple,Apple Shoes is average product,3,Yes,5
+478,Laptop,Electronics,Adidas,Adidas Laptop is great value for money,4,Yes,7
+479,Camera,Fashion,HP,HP Camera is poor quality,1,Yes,5
+480,Backpack,Electronics,Boat,Boat Backpack is late delivery,1,No,5
+481,Smartphone,Accessories,Boat,Boat Smartphone is cheap material,1,No,5
+482,Smartphone,Fashion,Apple,Apple Smartphone is late delivery,2,No,5
+483,Smartwatch,Fashion,Samsung,Samsung Smartwatch is fast delivery,4,No,5
+484,Backpack,Fashion,HP,HP Backpack is cheap material,2,Yes,5
+485,Smartphone,Electronics,Nike,Nike Smartphone is awesome performance,4,No,5
+486,Smartwatch,Electronics,Sony,Sony Smartwatch is not bad,3,Yes,5
+487,Shoes,Electronics,Samsung,Samsung Shoes is okay for the price,3,No,7
+488,Smartwatch,Accessories,Adidas,Adidas Smartwatch is not satisfied,1,No,5
+489,Backpack,Accessories,Sony,Sony Backpack is average product,3,Yes,5
+490,Tablet,Electronics,Samsung,Samsung Tablet is product stopped working,1,Yes,6
+491,Tablet,Fashion,Samsung,Samsung Tablet is very good quality,4,Yes,6
+492,Backpack,Electronics,Samsung,Samsung Backpack is awesome performance,4,Yes,5
+493,Laptop,Electronics,Adidas,Adidas Laptop is okay for the price,3,No,7
+494,Laptop,Fashion,Adidas,Adidas Laptop is decent performance,3,No,5
+495,Tablet,Electronics,Adidas,Adidas Tablet is highly recommended,5,No,5
+496,Shoes,Electronics,Nike,Nike Shoes is highly recommended,5,Yes,5
+497,Camera,Electronics,Samsung,Samsung Camera is average product,3,No,5
+498,Laptop,Electronics,Dell,Dell Laptop is okay for the price,3,No,7
+499,Smartwatch,Fashion,Adidas,Adidas Smartwatch is average product,3,Yes,5
+500,Backpack,Electronics,Dell,Dell Backpack is average product,3,No,5
+501,Backpack,Electronics,Nike,Nike Backpack is very good quality,4,Yes,6
+502,Camera,Fashion,Sony,Sony Camera is fast delivery,5,No,5
+503,Laptop,Accessories,Dell,Dell Laptop is very disappointed,2,Yes,5
+504,Smartphone,Electronics,Nike,Nike Smartphone is great value for money,4,No,7
+505,Backpack,Fashion,Sony,Sony Backpack is waste of money,1,Yes,6
+506,Laptop,Accessories,Adidas,Adidas Laptop is average product,3,No,5
+507,Camera,Accessories,Sony,Sony Camera is average product,3,No,5
+508,Backpack,Electronics,Boat,Boat Backpack is excellent product,4,No,5
+509,Shoes,Fashion,Nike,Nike Shoes is could be better,3,Yes,6
+510,Tablet,Electronics,Sony,Sony Tablet is excellent product,5,No,5
+511,Shoes,Electronics,Dell,Dell Shoes is fast delivery,4,Yes,5
+512,Shoes,Fashion,Apple,Apple Shoes is very good quality,4,Yes,6
+513,Tablet,Electronics,Nike,Nike Tablet is late delivery,2,No,5
+514,Backpack,Fashion,Sony,Sony Backpack is awesome performance,5,Yes,5
+515,Shoes,Fashion,Boat,Boat Shoes is cheap material,2,Yes,5
+516,Backpack,Accessories,HP,HP Backpack is worth the price,4,Yes,6
+517,Camera,Accessories,HP,HP Camera is average product,3,No,5
+518,Tablet,Electronics,Nike,Nike Tablet is okay for the price,3,No,7
+519,Headphones,Fashion,Apple,Apple Headphones is average product,3,Yes,5
+520,Headphones,Fashion,Samsung,Samsung Headphones is very good quality,4,Yes,6
+521,Smartwatch,Accessories,Sony,Sony Smartwatch is decent performance,3,No,5
+522,Camera,Accessories,HP,HP Camera is waste of money,1,No,6
+523,Camera,Fashion,Apple,Apple Camera is cheap material,1,Yes,5
+524,Laptop,Accessories,Nike,Nike Laptop is worth the price,4,No,6
+525,Tablet,Electronics,Dell,Dell Tablet is product stopped working,2,Yes,6
+526,Camera,Fashion,Samsung,Samsung Camera is late delivery,1,No,5
+527,Smartphone,Fashion,Dell,Dell Smartphone is okay for the price,3,No,7
+528,Shoes,Fashion,Nike,Nike Shoes is awesome performance,5,Yes,5
+529,Tablet,Fashion,Adidas,Adidas Tablet is highly recommended,5,No,5
+530,Smartwatch,Electronics,Dell,Dell Smartwatch is average product,3,No,5
+531,Backpack,Accessories,Samsung,Samsung Backpack is decent performance,3,Yes,5
+532,Headphones,Electronics,Samsung,Samsung Headphones is loved it,5,Yes,5
+533,Smartphone,Electronics,Dell,Dell Smartphone is excellent product,4,No,5
+534,Shoes,Fashion,Adidas,Adidas Shoes is okay for the price,3,No,7
+535,Smartphone,Fashion,Boat,Boat Smartphone is average product,3,No,5
+536,Headphones,Accessories,Dell,Dell Headphones is decent performance,3,No,5
+537,Laptop,Electronics,Nike,Nike Laptop is not satisfied,2,No,5
+538,Smartwatch,Accessories,Boat,Boat Smartwatch is highly recommended,4,Yes,5
+539,Smartphone,Electronics,Dell,Dell Smartphone is late delivery,1,Yes,5
+540,Smartwatch,Accessories,Nike,Nike Smartwatch is average product,3,No,5
+541,Camera,Fashion,HP,HP Camera is not bad,3,No,5
+542,Shoes,Accessories,HP,HP Shoes is bad experience,2,Yes,5
+543,Shoes,Fashion,Apple,Apple Shoes is awesome performance,5,Yes,5
+544,Shoes,Accessories,Nike,Nike Shoes is product stopped working,2,No,6
+545,Smartphone,Accessories,HP,HP Smartphone is highly recommended,4,No,5
+546,Smartphone,Fashion,Dell,Dell Smartphone is okay for the price,3,No,7
+547,Smartphone,Fashion,Boat,Boat Smartphone is late delivery,2,Yes,5
+548,Tablet,Accessories,Adidas,Adidas Tablet is could be better,3,No,6
+549,Laptop,Electronics,Dell,Dell Laptop is highly recommended,5,No,5
+550,Headphones,Accessories,Adidas,Adidas Headphones is could be better,3,Yes,6
+551,Shoes,Fashion,HP,HP Shoes is awesome performance,4,No,5
+552,Laptop,Electronics,Dell,Dell Laptop is product stopped working,2,Yes,6
+553,Camera,Fashion,Nike,Nike Camera is bad experience,1,Yes,5
+554,Backpack,Accessories,HP,HP Backpack is highly recommended,4,No,5
+555,Laptop,Fashion,Dell,Dell Laptop is awesome performance,4,Yes,5
+556,Tablet,Electronics,Nike,Nike Tablet is poor quality,1,Yes,5
+557,Tablet,Electronics,Apple,Apple Tablet is okay for the price,3,No,7
+558,Camera,Fashion,HP,HP Camera is decent performance,3,No,5
+559,Backpack,Fashion,Samsung,Samsung Backpack is excellent product,4,Yes,5
+560,Smartwatch,Fashion,Adidas,Adidas Smartwatch is excellent product,4,Yes,5
+561,Headphones,Electronics,Apple,Apple Headphones is fast delivery,5,No,5
+562,Camera,Fashion,Sony,Sony Camera is cheap material,2,No,5
+563,Camera,Electronics,Samsung,Samsung Camera is bad experience,1,Yes,5
+564,Smartwatch,Accessories,Samsung,Samsung Smartwatch is okay for the price,3,Yes,7
+565,Camera,Accessories,Nike,Nike Camera is awesome performance,4,Yes,5
+566,Laptop,Electronics,Samsung,Samsung Laptop is average product,3,Yes,5
+567,Laptop,Fashion,Nike,Nike Laptop is cheap material,2,Yes,5
+568,Camera,Accessories,Apple,Apple Camera is excellent product,5,No,5
+569,Headphones,Electronics,HP,HP Headphones is could be better,3,Yes,6
+570,Tablet,Accessories,Boat,Boat Tablet is waste of money,1,Yes,6
+571,Camera,Electronics,Nike,Nike Camera is bad experience,2,Yes,5
+572,Smartwatch,Fashion,Dell,Dell Smartwatch is decent performance,3,Yes,5
+573,Laptop,Electronics,Dell,Dell Laptop is excellent product,4,Yes,5
+574,Laptop,Accessories,Nike,Nike Laptop is average product,3,Yes,5
+575,Tablet,Electronics,Samsung,Samsung Tablet is product stopped working,2,Yes,6
+576,Backpack,Accessories,HP,HP Backpack is loved it,5,Yes,5
+577,Headphones,Fashion,Sony,Sony Headphones is excellent product,4,No,5
+578,Backpack,Electronics,Adidas,Adidas Backpack is product stopped working,1,Yes,6
+579,Shoes,Accessories,HP,HP Shoes is late delivery,2,No,5
+580,Headphones,Electronics,Samsung,Samsung Headphones is not satisfied,1,Yes,5
+581,Headphones,Fashion,HP,HP Headphones is cheap material,2,Yes,5
+582,Tablet,Electronics,Dell,Dell Tablet is okay for the price,3,No,7
+583,Shoes,Electronics,Adidas,Adidas Shoes is poor quality,1,Yes,5
+584,Laptop,Accessories,HP,HP Laptop is not bad,3,Yes,5
+585,Headphones,Electronics,Samsung,Samsung Headphones is very disappointed,2,Yes,5
+586,Tablet,Electronics,Sony,Sony Tablet is decent performance,3,No,5
+587,Shoes,Accessories,Samsung,Samsung Shoes is bad experience,2,Yes,5
+588,Camera,Electronics,Boat,Boat Camera is decent performance,3,No,5
+589,Tablet,Fashion,Dell,Dell Tablet is cheap material,1,Yes,5
+590,Camera,Electronics,HP,HP Camera is poor quality,1,Yes,5
+591,Tablet,Fashion,Adidas,Adidas Tablet is loved it,4,Yes,5
+592,Tablet,Accessories,Adidas,Adidas Tablet is great value for money,5,No,7
+593,Smartphone,Fashion,Adidas,Adidas Smartphone is worth the price,4,No,6
+594,Backpack,Electronics,Apple,Apple Backpack is could be better,3,Yes,6
+595,Laptop,Accessories,Nike,Nike Laptop is not satisfied,2,Yes,5
+596,Smartwatch,Electronics,Dell,Dell Smartwatch is worth the price,5,No,6
+597,Laptop,Fashion,Dell,Dell Laptop is fast delivery,4,Yes,5
+598,Camera,Accessories,Dell,Dell Camera is poor quality,1,Yes,5
+599,Headphones,Electronics,Sony,Sony Headphones is could be better,3,No,6
+600,Backpack,Fashion,HP,HP Backpack is could be better,3,Yes,6
+601,Shoes,Electronics,Dell,Dell Shoes is late delivery,2,Yes,5
+602,Smartwatch,Electronics,Boat,Boat Smartwatch is product stopped working,2,No,6
+603,Headphones,Accessories,Sony,Sony Headphones is not bad,3,No,5
+604,Backpack,Accessories,Dell,Dell Backpack is average product,3,No,5
+605,Shoes,Electronics,HP,HP Shoes is could be better,3,Yes,6
+606,Smartphone,Electronics,Samsung,Samsung Smartphone is fast delivery,4,No,5
+607,Headphones,Accessories,Samsung,Samsung Headphones is loved it,5,No,5
+608,Tablet,Accessories,Apple,Apple Tablet is excellent product,5,Yes,5
+609,Camera,Accessories,Boat,Boat Camera is could be better,3,No,6
+610,Camera,Fashion,HP,HP Camera is average product,3,No,5
+611,Smartphone,Electronics,Nike,Nike Smartphone is average product,3,No,5
+612,Smartwatch,Fashion,Nike,Nike Smartwatch is awesome performance,4,Yes,5
+613,Headphones,Accessories,Sony,Sony Headphones is average product,3,Yes,5
+614,Shoes,Electronics,Nike,Nike Shoes is poor quality,2,Yes,5
+615,Smartphone,Fashion,Adidas,Adidas Smartphone is not bad,3,Yes,5
+616,Smartphone,Fashion,Nike,Nike Smartphone is highly recommended,5,No,5
+617,Headphones,Accessories,Apple,Apple Headphones is awesome performance,4,Yes,5
+618,Backpack,Electronics,Boat,Boat Backpack is late delivery,1,No,5
+619,Smartwatch,Accessories,Dell,Dell Smartwatch is very disappointed,2,Yes,5
+620,Smartwatch,Electronics,Boat,Boat Smartwatch is awesome performance,5,No,5
+621,Shoes,Electronics,Nike,Nike Shoes is waste of money,2,No,6
+622,Tablet,Electronics,Dell,Dell Tablet is could be better,3,No,6
+623,Backpack,Electronics,Apple,Apple Backpack is okay for the price,3,Yes,7
+624,Smartphone,Electronics,Apple,Apple Smartphone is could be better,3,Yes,6
+625,Laptop,Accessories,Boat,Boat Laptop is decent performance,3,No,5
+626,Headphones,Fashion,Samsung,Samsung Headphones is average product,3,No,5
+627,Smartphone,Fashion,Sony,Sony Smartphone is worth the price,4,Yes,6
+628,Shoes,Fashion,HP,HP Shoes is okay for the price,3,No,7
+629,Camera,Electronics,Adidas,Adidas Camera is decent performance,3,No,5
+630,Smartphone,Accessories,Apple,Apple Smartphone is average product,3,Yes,5
+631,Backpack,Fashion,Apple,Apple Backpack is average product,3,No,5
+632,Shoes,Fashion,Dell,Dell Shoes is average product,3,No,5
+633,Tablet,Accessories,Sony,Sony Tablet is average product,3,Yes,5
+634,Headphones,Accessories,Nike,Nike Headphones is fast delivery,5,No,5
+635,Smartphone,Accessories,Samsung,Samsung Smartphone is highly recommended,4,No,5
+636,Laptop,Electronics,Nike,Nike Laptop is could be better,3,No,6
+637,Headphones,Electronics,Sony,Sony Headphones is fast delivery,4,No,5
+638,Smartphone,Accessories,Dell,Dell Smartphone is worth the price,4,Yes,6
+639,Laptop,Accessories,Boat,Boat Laptop is waste of money,2,No,6
+640,Smartwatch,Fashion,Apple,Apple Smartwatch is very disappointed,1,Yes,5
+641,Tablet,Accessories,Adidas,Adidas Tablet is awesome performance,5,No,5
+642,Headphones,Fashion,Adidas,Adidas Headphones is could be better,3,No,6
+643,Smartwatch,Accessories,Boat,Boat Smartwatch is excellent product,5,No,5
+644,Backpack,Fashion,Dell,Dell Backpack is very disappointed,1,No,5
+645,Laptop,Accessories,Sony,Sony Laptop is product stopped working,2,Yes,6
+646,Shoes,Accessories,Apple,Apple Shoes is not satisfied,1,Yes,5
+647,Smartwatch,Accessories,Samsung,Samsung Smartwatch is excellent product,5,No,5
+648,Tablet,Fashion,Sony,Sony Tablet is could be better,3,No,6
+649,Tablet,Fashion,Apple,Apple Tablet is loved it,4,No,5
+650,Smartwatch,Accessories,Sony,Sony Smartwatch is average product,3,Yes,5
+651,Headphones,Fashion,Dell,Dell Headphones is not satisfied,1,Yes,5
+652,Laptop,Fashion,Nike,Nike Laptop is great value for money,4,Yes,7
+653,Camera,Fashion,Dell,Dell Camera is very good quality,5,Yes,6
+654,Shoes,Accessories,Nike,Nike Shoes is awesome performance,4,Yes,5
+655,Laptop,Fashion,Nike,Nike Laptop is late delivery,2,Yes,5
+656,Backpack,Fashion,Adidas,Adidas Backpack is decent performance,3,No,5
+657,Headphones,Electronics,Dell,Dell Headphones is average product,3,Yes,5
+658,Headphones,Electronics,Sony,Sony Headphones is loved it,4,No,5
+659,Smartwatch,Fashion,HP,HP Smartwatch is average product,3,Yes,5
+660,Smartwatch,Accessories,Sony,Sony Smartwatch is cheap material,2,No,5
+661,Headphones,Electronics,Sony,Sony Headphones is very good quality,4,Yes,6
+662,Smartphone,Fashion,Sony,Sony Smartphone is okay for the price,3,Yes,7
+663,Smartphone,Electronics,Nike,Nike Smartphone is decent performance,3,Yes,5
+664,Headphones,Fashion,Boat,Boat Headphones is cheap material,2,Yes,5
+665,Shoes,Accessories,Sony,Sony Shoes is okay for the price,3,No,7
+666,Camera,Electronics,HP,HP Camera is waste of money,1,Yes,6
+667,Headphones,Electronics,Apple,Apple Headphones is very good quality,5,No,6
+668,Smartphone,Electronics,Apple,Apple Smartphone is could be better,3,No,6
+669,Smartphone,Accessories,HP,HP Smartphone is okay for the price,3,No,7
+670,Smartwatch,Fashion,Dell,Dell Smartwatch is poor quality,2,No,5
+671,Laptop,Electronics,HP,HP Laptop is could be better,3,No,6
+672,Shoes,Fashion,HP,HP Shoes is bad experience,1,Yes,5
+673,Smartphone,Accessories,HP,HP Smartphone is excellent product,4,Yes,5
+674,Camera,Electronics,Adidas,Adidas Camera is not bad,3,Yes,5
+675,Camera,Accessories,Adidas,Adidas Camera is product stopped working,2,No,6
+676,Smartwatch,Accessories,HP,HP Smartwatch is decent performance,3,No,5
+677,Shoes,Accessories,Nike,Nike Shoes is awesome performance,5,No,5
+678,Headphones,Accessories,Apple,Apple Headphones is decent performance,3,Yes,5
+679,Smartwatch,Fashion,HP,HP Smartwatch is not satisfied,1,Yes,5
+680,Laptop,Fashion,Sony,Sony Laptop is fast delivery,4,No,5
+681,Smartwatch,Electronics,Adidas,Adidas Smartwatch is worth the price,5,Yes,6
+682,Camera,Accessories,Nike,Nike Camera is decent performance,3,Yes,5
+683,Smartphone,Accessories,Boat,Boat Smartphone is great value for money,5,No,7
+684,Headphones,Fashion,Samsung,Samsung Headphones is excellent product,4,Yes,5
+685,Headphones,Fashion,Apple,Apple Headphones is average product,3,No,5
+686,Smartwatch,Accessories,Samsung,Samsung Smartwatch is late delivery,2,Yes,5
+687,Backpack,Electronics,Nike,Nike Backpack is loved it,5,Yes,5
+688,Shoes,Fashion,Sony,Sony Shoes is late delivery,1,Yes,5
+689,Shoes,Electronics,Adidas,Adidas Shoes is average product,3,No,5
+690,Shoes,Fashion,Dell,Dell Shoes is could be better,3,No,6
+691,Tablet,Fashion,Samsung,Samsung Tablet is awesome performance,5,Yes,5
+692,Smartwatch,Fashion,Boat,Boat Smartwatch is waste of money,2,No,6
+693,Smartwatch,Electronics,Nike,Nike Smartwatch is poor quality,2,No,5
+694,Laptop,Fashion,Sony,Sony Laptop is not bad,3,No,5
+695,Headphones,Fashion,Boat,Boat Headphones is bad experience,2,Yes,5
+696,Smartwatch,Electronics,Boat,Boat Smartwatch is very good quality,5,Yes,6
+697,Headphones,Electronics,Apple,Apple Headphones is not bad,3,Yes,5
+698,Smartphone,Fashion,Samsung,Samsung Smartphone is decent performance,3,No,5
+699,Tablet,Fashion,Nike,Nike Tablet is not bad,3,Yes,5
+700,Camera,Accessories,Boat,Boat Camera is not bad,3,Yes,5
+701,Smartphone,Fashion,Adidas,Adidas Smartphone is fast delivery,5,Yes,5
+702,Backpack,Electronics,Samsung,Samsung Backpack is waste of money,2,Yes,6
+703,Backpack,Electronics,Nike,Nike Backpack is waste of money,2,No,6
+704,Backpack,Electronics,Adidas,Adidas Backpack is loved it,5,No,5
+705,Backpack,Fashion,Adidas,Adidas Backpack is bad experience,2,No,5
+706,Smartwatch,Accessories,Apple,Apple Smartwatch is not satisfied,1,No,5
+707,Smartwatch,Accessories,Sony,Sony Smartwatch is fast delivery,5,Yes,5
+708,Camera,Electronics,Dell,Dell Camera is poor quality,1,No,5
+709,Smartphone,Electronics,HP,HP Smartphone is product stopped working,2,Yes,6
+710,Tablet,Fashion,Apple,Apple Tablet is very good quality,5,No,6
+711,Shoes,Electronics,Adidas,Adidas Shoes is very disappointed,2,No,5
+712,Headphones,Fashion,Nike,Nike Headphones is awesome performance,4,No,5
+713,Tablet,Electronics,Dell,Dell Tablet is could be better,3,No,6
+714,Tablet,Electronics,Sony,Sony Tablet is not bad,3,No,5
+715,Laptop,Fashion,Sony,Sony Laptop is late delivery,1,Yes,5
+716,Shoes,Fashion,HP,HP Shoes is very disappointed,2,No,5
+717,Headphones,Electronics,Sony,Sony Headphones is cheap material,2,Yes,5
+718,Shoes,Electronics,Apple,Apple Shoes is okay for the price,3,Yes,7
+719,Laptop,Accessories,Dell,Dell Laptop is waste of money,1,Yes,6
+720,Laptop,Accessories,Nike,Nike Laptop is fast delivery,4,Yes,5
+721,Smartwatch,Accessories,Boat,Boat Smartwatch is fast delivery,5,No,5
+722,Headphones,Electronics,Samsung,Samsung Headphones is not satisfied,1,No,5
+723,Shoes,Electronics,Dell,Dell Shoes is cheap material,2,Yes,5
+724,Tablet,Accessories,HP,HP Tablet is could be better,3,No,6
+725,Laptop,Fashion,Dell,Dell Laptop is cheap material,1,No,5
+726,Shoes,Electronics,Samsung,Samsung Shoes is product stopped working,1,Yes,6
+727,Smartphone,Fashion,Dell,Dell Smartphone is product stopped working,2,No,6
+728,Smartwatch,Accessories,Samsung,Samsung Smartwatch is fast delivery,5,No,5
+729,Camera,Electronics,Boat,Boat Camera is fast delivery,5,No,5
+730,Laptop,Accessories,HP,HP Laptop is bad experience,2,Yes,5
+731,Shoes,Accessories,Nike,Nike Shoes is could be better,3,No,6
+732,Headphones,Fashion,Sony,Sony Headphones is bad experience,1,Yes,5
+733,Tablet,Accessories,Nike,Nike Tablet is decent performance,3,No,5
+734,Headphones,Accessories,Samsung,Samsung Headphones is awesome performance,4,Yes,5
+735,Shoes,Accessories,Sony,Sony Shoes is worth the price,5,No,6
+736,Smartwatch,Electronics,Apple,Apple Smartwatch is average product,3,Yes,5
+737,Camera,Fashion,Nike,Nike Camera is bad experience,2,No,5
+738,Laptop,Electronics,Sony,Sony Laptop is poor quality,2,No,5
+739,Headphones,Fashion,Boat,Boat Headphones is waste of money,2,No,6
+740,Camera,Electronics,Dell,Dell Camera is worth the price,4,Yes,6
+741,Smartwatch,Fashion,Dell,Dell Smartwatch is great value for money,4,No,7
+742,Laptop,Fashion,Nike,Nike Laptop is not satisfied,1,No,5
+743,Smartwatch,Electronics,Apple,Apple Smartwatch is awesome performance,4,No,5
+744,Shoes,Fashion,Apple,Apple Shoes is poor quality,1,Yes,5
+745,Headphones,Electronics,Adidas,Adidas Headphones is excellent product,5,Yes,5
+746,Backpack,Electronics,Samsung,Samsung Backpack is great value for money,4,No,7
+747,Laptop,Fashion,Sony,Sony Laptop is okay for the price,3,Yes,7
+748,Smartwatch,Accessories,Samsung,Samsung Smartwatch is very disappointed,2,No,5
+749,Smartphone,Accessories,Dell,Dell Smartphone is not satisfied,2,No,5
+750,Tablet,Accessories,Boat,Boat Tablet is not bad,3,Yes,5
+751,Backpack,Fashion,Dell,Dell Backpack is not bad,3,Yes,5
+752,Shoes,Accessories,Nike,Nike Shoes is highly recommended,5,No,5
+753,Headphones,Accessories,Samsung,Samsung Headphones is poor quality,2,No,5
+754,Backpack,Accessories,Apple,Apple Backpack is okay for the price,3,No,7
+755,Shoes,Fashion,Adidas,Adidas Shoes is great value for money,4,No,7
+756,Smartphone,Electronics,Sony,Sony Smartphone is worth the price,4,Yes,6
+757,Smartwatch,Electronics,Apple,Apple Smartwatch is worth the price,5,No,6
+758,Shoes,Fashion,Samsung,Samsung Shoes is decent performance,3,Yes,5
+759,Smartphone,Accessories,Boat,Boat Smartphone is average product,3,No,5
+760,Backpack,Fashion,HP,HP Backpack is great value for money,4,Yes,7
+761,Smartphone,Fashion,Apple,Apple Smartphone is not bad,3,Yes,5
+762,Smartwatch,Electronics,HP,HP Smartwatch is worth the price,4,Yes,6
+763,Headphones,Accessories,HP,HP Headphones is okay for the price,3,Yes,7
+764,Backpack,Accessories,Dell,Dell Backpack is could be better,3,No,6
+765,Camera,Accessories,Adidas,Adidas Camera is highly recommended,4,Yes,5
+766,Tablet,Fashion,Adidas,Adidas Tablet is could be better,3,No,6
+767,Backpack,Accessories,Boat,Boat Backpack is late delivery,2,Yes,5
+768,Tablet,Fashion,Dell,Dell Tablet is product stopped working,2,Yes,6
+769,Shoes,Accessories,Samsung,Samsung Shoes is average product,3,Yes,5
+770,Smartwatch,Fashion,Boat,Boat Smartwatch is poor quality,2,Yes,5
+771,Headphones,Electronics,Apple,Apple Headphones is not bad,3,No,5
+772,Shoes,Accessories,Adidas,Adidas Shoes is not satisfied,1,Yes,5
+773,Laptop,Accessories,HP,HP Laptop is loved it,5,Yes,5
+774,Backpack,Electronics,Dell,Dell Backpack is average product,3,No,5
+775,Laptop,Electronics,Nike,Nike Laptop is could be better,3,No,6
+776,Backpack,Fashion,HP,HP Backpack is excellent product,5,Yes,5
+777,Smartphone,Accessories,Nike,Nike Smartphone is excellent product,5,Yes,5
+778,Smartwatch,Electronics,Sony,Sony Smartwatch is not satisfied,2,No,5
+779,Camera,Fashion,Nike,Nike Camera is waste of money,1,Yes,6
+780,Tablet,Accessories,Samsung,Samsung Tablet is awesome performance,4,No,5
+781,Camera,Electronics,Sony,Sony Camera is waste of money,2,No,6
+782,Tablet,Accessories,HP,HP Tablet is okay for the price,3,Yes,7
+783,Smartwatch,Electronics,Boat,Boat Smartwatch is could be better,3,No,6
+784,Laptop,Fashion,HP,HP Laptop is very disappointed,1,No,5
+785,Backpack,Fashion,Samsung,Samsung Backpack is bad experience,2,Yes,5
+786,Tablet,Electronics,Samsung,Samsung Tablet is cheap material,1,Yes,5
+787,Headphones,Electronics,Apple,Apple Headphones is not bad,3,Yes,5
+788,Smartphone,Accessories,Adidas,Adidas Smartphone is highly recommended,5,Yes,5
+789,Smartphone,Electronics,Adidas,Adidas Smartphone is cheap material,2,Yes,5
+790,Headphones,Fashion,Samsung,Samsung Headphones is loved it,5,Yes,5
+791,Shoes,Accessories,Boat,Boat Shoes is not satisfied,1,No,5
+792,Laptop,Accessories,HP,HP Laptop is great value for money,4,No,7
+793,Laptop,Fashion,Samsung,Samsung Laptop is not bad,3,No,5
+794,Backpack,Accessories,Dell,Dell Backpack is fast delivery,4,Yes,5
+795,Smartphone,Electronics,Samsung,Samsung Smartphone is very good quality,5,No,6
+796,Headphones,Fashion,Samsung,Samsung Headphones is cheap material,2,No,5
+797,Shoes,Accessories,Samsung,Samsung Shoes is product stopped working,1,No,6
+798,Smartwatch,Fashion,Sony,Sony Smartwatch is poor quality,2,No,5
+799,Laptop,Accessories,HP,HP Laptop is okay for the price,3,Yes,7
+800,Camera,Accessories,Nike,Nike Camera is bad experience,1,No,5
+801,Headphones,Electronics,Boat,Boat Headphones is not satisfied,1,No,5
+802,Headphones,Electronics,HP,HP Headphones is could be better,3,Yes,6
+803,Headphones,Electronics,Adidas,Adidas Headphones is waste of money,1,Yes,6
+804,Shoes,Accessories,Dell,Dell Shoes is late delivery,2,No,5
+805,Headphones,Electronics,Sony,Sony Headphones is very good quality,4,No,6
+806,Smartwatch,Electronics,Boat,Boat Smartwatch is could be better,3,Yes,6
+807,Headphones,Accessories,Dell,Dell Headphones is waste of money,2,No,6
+808,Tablet,Electronics,Sony,Sony Tablet is fast delivery,5,Yes,5
+809,Smartphone,Fashion,Nike,Nike Smartphone is excellent product,5,Yes,5
+810,Smartwatch,Electronics,Apple,Apple Smartwatch is okay for the price,3,No,7
+811,Backpack,Electronics,Dell,Dell Backpack is decent performance,3,No,5
+812,Backpack,Accessories,HP,HP Backpack is poor quality,2,Yes,5
+813,Tablet,Electronics,Dell,Dell Tablet is average product,3,Yes,5
+814,Camera,Accessories,Samsung,Samsung Camera is could be better,3,No,6
+815,Smartwatch,Fashion,Nike,Nike Smartwatch is average product,3,No,5
+816,Headphones,Fashion,HP,HP Headphones is product stopped working,2,Yes,6
+817,Headphones,Accessories,Dell,Dell Headphones is could be better,3,No,6
+818,Headphones,Fashion,HP,HP Headphones is worth the price,4,No,6
+819,Tablet,Fashion,Boat,Boat Tablet is poor quality,1,Yes,5
+820,Laptop,Electronics,Apple,Apple Laptop is very disappointed,1,No,5
+821,Laptop,Accessories,HP,HP Laptop is not bad,3,Yes,5
+822,Headphones,Accessories,Adidas,Adidas Headphones is late delivery,1,Yes,5
+823,Smartphone,Fashion,HP,HP Smartphone is highly recommended,4,No,5
+824,Shoes,Electronics,Sony,Sony Shoes is decent performance,3,Yes,5
+825,Smartphone,Fashion,Dell,Dell Smartphone is excellent product,5,No,5
+826,Tablet,Electronics,Boat,Boat Tablet is average product,3,No,5
+827,Laptop,Electronics,Samsung,Samsung Laptop is late delivery,2,No,5
+828,Smartwatch,Electronics,Samsung,Samsung Smartwatch is could be better,3,Yes,6
+829,Headphones,Accessories,Samsung,Samsung Headphones is awesome performance,4,No,5
+830,Laptop,Electronics,HP,HP Laptop is waste of money,1,Yes,6
+831,Headphones,Accessories,Dell,Dell Headphones is not bad,3,No,5
+832,Backpack,Fashion,Adidas,Adidas Backpack is worth the price,5,Yes,6
+833,Tablet,Electronics,Sony,Sony Tablet is waste of money,2,No,6
+834,Smartwatch,Electronics,Samsung,Samsung Smartwatch is late delivery,1,Yes,5
+835,Backpack,Accessories,Nike,Nike Backpack is product stopped working,2,No,6
+836,Tablet,Accessories,Sony,Sony Tablet is great value for money,5,Yes,7
+837,Smartwatch,Electronics,Samsung,Samsung Smartwatch is not bad,3,Yes,5
+838,Camera,Electronics,HP,HP Camera is waste of money,1,No,6
+839,Smartwatch,Fashion,Nike,Nike Smartwatch is bad experience,1,Yes,5
+840,Smartphone,Accessories,Apple,Apple Smartphone is product stopped working,2,No,6
+841,Headphones,Fashion,Boat,Boat Headphones is late delivery,1,No,5
+842,Tablet,Accessories,Samsung,Samsung Tablet is decent performance,3,Yes,5
+843,Backpack,Fashion,Dell,Dell Backpack is not satisfied,2,Yes,5
+844,Backpack,Electronics,Samsung,Samsung Backpack is not bad,3,No,5
+845,Shoes,Fashion,Samsung,Samsung Shoes is waste of money,1,No,6
+846,Headphones,Electronics,HP,HP Headphones is could be better,3,Yes,6
+847,Shoes,Electronics,HP,HP Shoes is very disappointed,1,No,5
+848,Shoes,Accessories,Boat,Boat Shoes is awesome performance,5,No,5
+849,Smartphone,Electronics,Boat,Boat Smartphone is worth the price,5,No,6
+850,Tablet,Electronics,Sony,Sony Tablet is average product,3,No,5
+851,Headphones,Accessories,Apple,Apple Headphones is product stopped working,2,Yes,6
+852,Camera,Electronics,Apple,Apple Camera is excellent product,5,No,5
+853,Tablet,Electronics,Samsung,Samsung Tablet is worth the price,5,No,6
+854,Backpack,Electronics,Boat,Boat Backpack is loved it,4,No,5
+855,Laptop,Electronics,Nike,Nike Laptop is very disappointed,2,Yes,5
+856,Laptop,Accessories,Boat,Boat Laptop is waste of money,1,No,6
+857,Shoes,Accessories,Sony,Sony Shoes is not bad,3,No,5
+858,Headphones,Fashion,Apple,Apple Headphones is okay for the price,3,No,7
+859,Smartphone,Electronics,Sony,Sony Smartphone is decent performance,3,No,5
+860,Laptop,Electronics,HP,HP Laptop is average product,3,Yes,5
+861,Tablet,Fashion,Adidas,Adidas Tablet is late delivery,1,No,5
+862,Headphones,Accessories,Apple,Apple Headphones is worth the price,5,No,6
+863,Tablet,Electronics,Dell,Dell Tablet is great value for money,5,Yes,7
+864,Camera,Accessories,Sony,Sony Camera is loved it,5,No,5
+865,Smartphone,Fashion,Apple,Apple Smartphone is cheap material,2,Yes,5
+866,Headphones,Fashion,Nike,Nike Headphones is cheap material,2,Yes,5
+867,Camera,Fashion,Apple,Apple Camera is average product,3,Yes,5
+868,Camera,Accessories,Boat,Boat Camera is cheap material,2,Yes,5
+869,Tablet,Electronics,HP,HP Tablet is okay for the price,3,No,7
+870,Backpack,Electronics,Boat,Boat Backpack is fast delivery,5,Yes,5
+871,Tablet,Accessories,Apple,Apple Tablet is could be better,3,No,6
+872,Headphones,Fashion,Nike,Nike Headphones is waste of money,2,Yes,6
+873,Camera,Fashion,Adidas,Adidas Camera is average product,3,Yes,5
+874,Smartphone,Accessories,Sony,Sony Smartphone is very good quality,4,Yes,6
+875,Tablet,Electronics,Boat,Boat Tablet is product stopped working,2,No,6
+876,Backpack,Accessories,Apple,Apple Backpack is product stopped working,2,Yes,6
+877,Camera,Fashion,Sony,Sony Camera is could be better,3,Yes,6
+878,Backpack,Fashion,Apple,Apple Backpack is poor quality,1,Yes,5
+879,Backpack,Fashion,HP,HP Backpack is fast delivery,5,No,5
+880,Tablet,Electronics,Sony,Sony Tablet is bad experience,1,No,5
+881,Shoes,Electronics,Sony,Sony Shoes is late delivery,1,Yes,5
+882,Tablet,Electronics,HP,HP Tablet is excellent product,4,Yes,5
+883,Camera,Fashion,Sony,Sony Camera is fast delivery,5,No,5
+884,Camera,Electronics,Adidas,Adidas Camera is decent performance,3,Yes,5
+885,Smartwatch,Fashion,Nike,Nike Smartwatch is poor quality,2,No,5
+886,Backpack,Accessories,Apple,Apple Backpack is excellent product,5,No,5
+887,Headphones,Fashion,Nike,Nike Headphones is average product,3,Yes,5
+888,Laptop,Fashion,Boat,Boat Laptop is could be better,3,Yes,6
+889,Shoes,Fashion,Samsung,Samsung Shoes is could be better,3,Yes,6
+890,Backpack,Fashion,HP,HP Backpack is cheap material,2,No,5
+891,Shoes,Electronics,Nike,Nike Shoes is not satisfied,1,No,5
+892,Smartphone,Accessories,Nike,Nike Smartphone is okay for the price,3,Yes,7
+893,Headphones,Fashion,Apple,Apple Headphones is cheap material,1,No,5
+894,Shoes,Accessories,Samsung,Samsung Shoes is loved it,5,Yes,5
+895,Headphones,Fashion,Dell,Dell Headphones is okay for the price,3,Yes,7
+896,Headphones,Fashion,Samsung,Samsung Headphones is bad experience,2,Yes,5
+897,Camera,Electronics,HP,HP Camera is highly recommended,5,No,5
+898,Smartwatch,Electronics,Adidas,Adidas Smartwatch is okay for the price,3,No,7
+899,Tablet,Fashion,HP,HP Tablet is excellent product,4,No,5
+900,Camera,Fashion,Dell,Dell Camera is bad experience,2,Yes,5
+901,Smartphone,Fashion,Nike,Nike Smartphone is decent performance,3,No,5
+902,Smartphone,Accessories,Apple,Apple Smartphone is not bad,3,No,5
+903,Shoes,Electronics,Nike,Nike Shoes is product stopped working,2,No,6
+904,Camera,Accessories,Dell,Dell Camera is could be better,3,Yes,6
+905,Smartwatch,Accessories,Adidas,Adidas Smartwatch is could be better,3,Yes,6
+906,Laptop,Fashion,Samsung,Samsung Laptop is poor quality,1,Yes,5
+907,Tablet,Electronics,Adidas,Adidas Tablet is average product,3,No,5
+908,Smartphone,Electronics,Apple,Apple Smartphone is bad experience,1,Yes,5
+909,Laptop,Accessories,Apple,Apple Laptop is average product,3,Yes,5
+910,Headphones,Fashion,Nike,Nike Headphones is not satisfied,1,No,5
+911,Tablet,Fashion,Nike,Nike Tablet is average product,3,No,5
+912,Shoes,Fashion,Samsung,Samsung Shoes is not satisfied,1,No,5
+913,Shoes,Fashion,Sony,Sony Shoes is poor quality,2,Yes,5
+914,Headphones,Electronics,Dell,Dell Headphones is bad experience,2,Yes,5
+915,Smartwatch,Fashion,Apple,Apple Smartwatch is decent performance,3,No,5
+916,Laptop,Fashion,Nike,Nike Laptop is excellent product,4,Yes,5
+917,Smartphone,Fashion,HP,HP Smartphone is not satisfied,1,Yes,5
+918,Camera,Accessories,Samsung,Samsung Camera is not bad,3,No,5
+919,Laptop,Electronics,Boat,Boat Laptop is late delivery,2,No,5
+920,Laptop,Fashion,Adidas,Adidas Laptop is decent performance,3,No,5
+921,Backpack,Electronics,Adidas,Adidas Backpack is poor quality,1,No,5
+922,Smartphone,Accessories,HP,HP Smartphone is bad experience,1,Yes,5
+923,Backpack,Electronics,Dell,Dell Backpack is late delivery,1,No,5
+924,Headphones,Electronics,Samsung,Samsung Headphones is okay for the price,3,Yes,7
+925,Smartwatch,Fashion,Dell,Dell Smartwatch is could be better,3,Yes,6
+926,Tablet,Electronics,Dell,Dell Tablet is not bad,3,Yes,5
+927,Smartphone,Electronics,HP,HP Smartphone is poor quality,2,Yes,5
+928,Tablet,Accessories,Sony,Sony Tablet is could be better,3,Yes,6
+929,Tablet,Fashion,Samsung,Samsung Tablet is excellent product,4,Yes,5
+930,Headphones,Fashion,Samsung,Samsung Headphones is highly recommended,4,Yes,5
+931,Laptop,Fashion,Apple,Apple Laptop is not satisfied,1,Yes,5
+932,Backpack,Fashion,HP,HP Backpack is very good quality,5,Yes,6
+933,Headphones,Electronics,Adidas,Adidas Headphones is could be better,3,Yes,6
+934,Backpack,Electronics,Apple,Apple Backpack is okay for the price,3,No,7
+935,Backpack,Fashion,Sony,Sony Backpack is fast delivery,4,Yes,5
+936,Headphones,Accessories,Apple,Apple Headphones is average product,3,No,5
+937,Laptop,Electronics,Samsung,Samsung Laptop is excellent product,5,Yes,5
+938,Tablet,Electronics,Sony,Sony Tablet is loved it,5,Yes,5
+939,Tablet,Electronics,HP,HP Tablet is not bad,3,Yes,5
+940,Headphones,Accessories,Dell,Dell Headphones is average product,3,Yes,5
+941,Backpack,Electronics,HP,HP Backpack is not bad,3,Yes,5
+942,Backpack,Fashion,Boat,Boat Backpack is worth the price,4,Yes,6
+943,Laptop,Accessories,Sony,Sony Laptop is poor quality,1,No,5
+944,Smartphone,Accessories,Samsung,Samsung Smartphone is not satisfied,1,No,5
+945,Shoes,Accessories,Adidas,Adidas Shoes is bad experience,2,No,5
+946,Headphones,Electronics,Sony,Sony Headphones is worth the price,4,No,6
+947,Laptop,Accessories,Boat,Boat Laptop is average product,3,No,5
+948,Backpack,Electronics,HP,HP Backpack is could be better,3,No,6
+949,Smartwatch,Electronics,Apple,Apple Smartwatch is worth the price,5,No,6
+950,Laptop,Accessories,Dell,Dell Laptop is fast delivery,4,No,5
+951,Smartwatch,Electronics,Dell,Dell Smartwatch is fast delivery,4,No,5
+952,Smartwatch,Fashion,Adidas,Adidas Smartwatch is not satisfied,2,Yes,5
+953,Smartphone,Electronics,Nike,Nike Smartphone is not satisfied,1,Yes,5
+954,Headphones,Electronics,Adidas,Adidas Headphones is cheap material,2,No,5
+955,Headphones,Electronics,Boat,Boat Headphones is okay for the price,3,No,7
+956,Smartwatch,Fashion,Dell,Dell Smartwatch is decent performance,3,No,5
+957,Smartwatch,Fashion,Adidas,Adidas Smartwatch is fast delivery,4,Yes,5
+958,Smartphone,Electronics,HP,HP Smartphone is okay for the price,3,Yes,7
+959,Camera,Accessories,Dell,Dell Camera is poor quality,2,Yes,5
+960,Laptop,Accessories,Samsung,Samsung Laptop is cheap material,1,No,5
+961,Shoes,Accessories,Boat,Boat Shoes is highly recommended,5,Yes,5
+962,Headphones,Accessories,Dell,Dell Headphones is great value for money,5,Yes,7
+963,Camera,Fashion,Sony,Sony Camera is cheap material,1,No,5
+964,Laptop,Accessories,HP,HP Laptop is average product,3,No,5
+965,Shoes,Fashion,HP,HP Shoes is average product,3,Yes,5
+966,Backpack,Accessories,Samsung,Samsung Backpack is average product,3,No,5
+967,Backpack,Accessories,Dell,Dell Backpack is worth the price,5,Yes,6
+968,Laptop,Electronics,Boat,Boat Laptop is very disappointed,1,No,5
+969,Smartwatch,Fashion,Boat,Boat Smartwatch is worth the price,5,No,6
+970,Smartphone,Fashion,Apple,Apple Smartphone is late delivery,2,No,5
+971,Tablet,Fashion,Nike,Nike Tablet is cheap material,1,No,5
+972,Smartwatch,Electronics,Dell,Dell Smartwatch is average product,3,Yes,5
+973,Laptop,Electronics,Apple,Apple Laptop is not satisfied,2,No,5
+974,Headphones,Accessories,Boat,Boat Headphones is highly recommended,5,Yes,5
+975,Tablet,Fashion,Adidas,Adidas Tablet is late delivery,1,No,5
+976,Shoes,Electronics,Boat,Boat Shoes is average product,3,Yes,5
+977,Backpack,Fashion,Adidas,Adidas Backpack is awesome performance,5,No,5
+978,Shoes,Fashion,Sony,Sony Shoes is product stopped working,1,Yes,6
+979,Smartphone,Fashion,Sony,Sony Smartphone is very disappointed,2,No,5
+980,Shoes,Electronics,Sony,Sony Shoes is not satisfied,1,Yes,5
+981,Smartphone,Accessories,Adidas,Adidas Smartphone is very good quality,4,Yes,6
+982,Headphones,Accessories,Boat,Boat Headphones is product stopped working,2,Yes,6
+983,Backpack,Fashion,Sony,Sony Backpack is not bad,3,No,5
+984,Shoes,Electronics,Apple,Apple Shoes is okay for the price,3,No,7
+985,Backpack,Electronics,Sony,Sony Backpack is not satisfied,2,No,5
+986,Tablet,Accessories,Nike,Nike Tablet is not bad,3,Yes,5
+987,Backpack,Accessories,Apple,Apple Backpack is decent performance,3,No,5
+988,Shoes,Fashion,Samsung,Samsung Shoes is highly recommended,4,Yes,5
+989,Backpack,Accessories,Samsung,Samsung Backpack is very disappointed,1,Yes,5
+990,Smartwatch,Electronics,Nike,Nike Smartwatch is could be better,3,Yes,6
+991,Camera,Fashion,Boat,Boat Camera is great value for money,4,No,7
+992,Smartphone,Fashion,Adidas,Adidas Smartphone is could be better,3,Yes,6
+993,Backpack,Fashion,HP,HP Backpack is decent performance,3,Yes,5
+994,Shoes,Accessories,Dell,Dell Shoes is very disappointed,2,Yes,5
+995,Tablet,Electronics,Nike,Nike Tablet is great value for money,5,No,7
+996,Headphones,Electronics,Apple,Apple Headphones is decent performance,3,Yes,5
+997,Laptop,Electronics,HP,HP Laptop is cheap material,2,Yes,5
+998,Headphones,Accessories,Dell,Dell Headphones is product stopped working,2,Yes,6
+999,Shoes,Electronics,Dell,Dell Shoes is highly recommended,5,No,5
+1000,Tablet,Electronics,Dell,Dell Tablet is not bad,3,Yes,5
+1001,Shoes,Electronics,Dell,Dell Shoes is highly recommended,5,No,5
+1002,Smartwatch,Electronics,Samsung,Samsung Smartwatch is not satisfied,2,No,5
+1003,Tablet,Fashion,HP,HP Tablet is waste of money,2,No,6
+1004,Backpack,Fashion,Samsung,Samsung Backpack is average product,3,Yes,5
+1005,Headphones,Fashion,Adidas,Adidas Headphones is average product,3,Yes,5
+1006,Shoes,Fashion,Adidas,Adidas Shoes is not satisfied,1,No,5
+1007,Laptop,Accessories,Boat,Boat Laptop is loved it,5,Yes,5
+1008,Backpack,Fashion,Nike,Nike Backpack is highly recommended,5,No,5
+1009,Smartphone,Accessories,Sony,Sony Smartphone is awesome performance,4,No,5
+1010,Backpack,Electronics,Sony,Sony Backpack is cheap material,2,Yes,5
+1011,Laptop,Fashion,HP,HP Laptop is very good quality,4,Yes,6
+1012,Tablet,Fashion,Adidas,Adidas Tablet is highly recommended,4,No,5
+1013,Headphones,Electronics,Nike,Nike Headphones is great value for money,5,Yes,7
+1014,Smartwatch,Electronics,Nike,Nike Smartwatch is highly recommended,4,Yes,5
+1015,Laptop,Electronics,Apple,Apple Laptop is worth the price,5,No,6
+1016,Laptop,Accessories,Samsung,Samsung Laptop is poor quality,1,Yes,5
+1017,Smartphone,Fashion,Apple,Apple Smartphone is waste of money,2,Yes,6
+1018,Smartwatch,Accessories,Sony,Sony Smartwatch is worth the price,4,No,6
+1019,Shoes,Fashion,Adidas,Adidas Shoes is worth the price,4,Yes,6
+1020,Smartwatch,Electronics,Apple,Apple Smartwatch is could be better,3,Yes,6
+1021,Smartwatch,Electronics,Nike,Nike Smartwatch is okay for the price,3,Yes,7
+1022,Smartwatch,Fashion,Dell,Dell Smartwatch is average product,3,Yes,5
+1023,Backpack,Fashion,HP,HP Backpack is waste of money,1,Yes,6
+1024,Camera,Fashion,Apple,Apple Camera is okay for the price,3,Yes,7
+1025,Tablet,Accessories,Adidas,Adidas Tablet is waste of money,1,No,6
+1026,Laptop,Fashion,Adidas,Adidas Laptop is average product,3,Yes,5
+1027,Shoes,Electronics,Dell,Dell Shoes is product stopped working,2,No,6
+1028,Laptop,Accessories,Dell,Dell Laptop is late delivery,1,No,5
+1029,Laptop,Fashion,HP,HP Laptop is excellent product,5,Yes,5
+1030,Camera,Accessories,Apple,Apple Camera is highly recommended,5,Yes,5
+1031,Backpack,Accessories,Boat,Boat Backpack is awesome performance,4,No,5
+1032,Tablet,Accessories,Nike,Nike Tablet is very good quality,5,No,6
+1033,Backpack,Accessories,Dell,Dell Backpack is decent performance,3,No,5
+1034,Tablet,Electronics,Apple,Apple Tablet is product stopped working,1,No,6
+1035,Headphones,Electronics,Samsung,Samsung Headphones is cheap material,1,Yes,5
+1036,Headphones,Accessories,HP,HP Headphones is great value for money,4,No,7
+1037,Laptop,Fashion,Dell,Dell Laptop is loved it,4,Yes,5
+1038,Shoes,Accessories,Adidas,Adidas Shoes is cheap material,2,Yes,5
+1039,Camera,Fashion,Dell,Dell Camera is fast delivery,4,No,5
+1040,Smartphone,Accessories,Sony,Sony Smartphone is cheap material,1,No,5
+1041,Tablet,Electronics,HP,HP Tablet is okay for the price,3,No,7
+1042,Tablet,Accessories,Apple,Apple Tablet is decent performance,3,No,5
+1043,Tablet,Accessories,Dell,Dell Tablet is could be better,3,Yes,6
+1044,Camera,Fashion,Nike,Nike Camera is average product,3,No,5
+1045,Shoes,Electronics,Adidas,Adidas Shoes is not bad,3,Yes,5
+1046,Headphones,Fashion,Adidas,Adidas Headphones is average product,3,Yes,5
+1047,Camera,Fashion,Apple,Apple Camera is not bad,3,No,5
+1048,Smartphone,Electronics,Boat,Boat Smartphone is late delivery,2,Yes,5
+1049,Laptop,Fashion,Apple,Apple Laptop is not bad,3,Yes,5
+1050,Backpack,Fashion,Samsung,Samsung Backpack is not satisfied,1,No,5
+1051,Camera,Electronics,Nike,Nike Camera is could be better,3,No,6
+1052,Backpack,Accessories,HP,HP Backpack is average product,3,No,5
+1053,Laptop,Fashion,Boat,Boat Laptop is waste of money,2,No,6
+1054,Headphones,Fashion,Nike,Nike Headphones is not bad,3,No,5
+1055,Smartwatch,Fashion,Nike,Nike Smartwatch is great value for money,4,Yes,7
+1056,Laptop,Accessories,Apple,Apple Laptop is late delivery,1,No,5
+1057,Camera,Fashion,Boat,Boat Camera is waste of money,2,Yes,6
+1058,Shoes,Accessories,HP,HP Shoes is not bad,3,No,5
+1059,Shoes,Accessories,Dell,Dell Shoes is fast delivery,5,Yes,5
+1060,Smartwatch,Fashion,Dell,Dell Smartwatch is highly recommended,5,No,5
+1061,Smartwatch,Fashion,Adidas,Adidas Smartwatch is average product,3,Yes,5
+1062,Camera,Fashion,HP,HP Camera is highly recommended,5,Yes,5
+1063,Camera,Fashion,Nike,Nike Camera is okay for the price,3,Yes,7
+1064,Smartwatch,Electronics,Apple,Apple Smartwatch is bad experience,2,Yes,5
+1065,Tablet,Accessories,Dell,Dell Tablet is very good quality,5,No,6
+1066,Headphones,Electronics,Nike,Nike Headphones is poor quality,1,Yes,5
+1067,Smartphone,Electronics,Dell,Dell Smartphone is product stopped working,1,Yes,6
+1068,Laptop,Fashion,HP,HP Laptop is awesome performance,5,Yes,5
+1069,Laptop,Accessories,Apple,Apple Laptop is not satisfied,1,No,5
+1070,Laptop,Fashion,Adidas,Adidas Laptop is waste of money,1,No,6
+1071,Camera,Electronics,Boat,Boat Camera is okay for the price,3,Yes,7
+1072,Tablet,Fashion,HP,HP Tablet is very good quality,5,Yes,6
+1073,Backpack,Fashion,HP,HP Backpack is very disappointed,1,Yes,5
+1074,Tablet,Fashion,Adidas,Adidas Tablet is not satisfied,2,Yes,5
+1075,Smartphone,Accessories,Samsung,Samsung Smartphone is could be better,3,Yes,6
+1076,Backpack,Accessories,Apple,Apple Backpack is late delivery,2,Yes,5
+1077,Camera,Fashion,Nike,Nike Camera is late delivery,1,Yes,5
+1078,Headphones,Accessories,Dell,Dell Headphones is loved it,4,No,5
+1079,Smartphone,Electronics,Nike,Nike Smartphone is decent performance,3,No,5
+1080,Camera,Electronics,Apple,Apple Camera is late delivery,2,No,5
+1081,Backpack,Accessories,HP,HP Backpack is average product,3,No,5
+1082,Headphones,Accessories,Dell,Dell Headphones is poor quality,1,Yes,5
+1083,Shoes,Accessories,Adidas,Adidas Shoes is fast delivery,4,Yes,5
+1084,Headphones,Fashion,HP,HP Headphones is highly recommended,4,No,5
+1085,Headphones,Fashion,Adidas,Adidas Headphones is not satisfied,2,Yes,5
+1086,Headphones,Fashion,HP,HP Headphones is fast delivery,5,Yes,5
+1087,Laptop,Electronics,Dell,Dell Laptop is excellent product,4,No,5
+1088,Smartphone,Accessories,HP,HP Smartphone is okay for the price,3,No,7
+1089,Headphones,Fashion,Apple,Apple Headphones is not bad,3,Yes,5
+1090,Smartphone,Fashion,HP,HP Smartphone is average product,3,No,5
+1091,Smartwatch,Fashion,Nike,Nike Smartwatch is very good quality,4,No,6
+1092,Smartwatch,Fashion,Boat,Boat Smartwatch is not satisfied,2,Yes,5
+1093,Headphones,Fashion,Samsung,Samsung Headphones is not satisfied,2,No,5
+1094,Backpack,Electronics,Dell,Dell Backpack is great value for money,4,Yes,7
+1095,Camera,Accessories,Boat,Boat Camera is not satisfied,2,No,5
+1096,Shoes,Electronics,Apple,Apple Shoes is decent performance,3,Yes,5
+1097,Tablet,Accessories,Adidas,Adidas Tablet is awesome performance,4,Yes,5
+1098,Shoes,Accessories,HP,HP Shoes is loved it,5,No,5
+1099,Shoes,Accessories,Sony,Sony Shoes is excellent product,4,No,5
+1100,Laptop,Accessories,Adidas,Adidas Laptop is cheap material,1,No,5
+1101,Backpack,Electronics,Samsung,Samsung Backpack is loved it,4,No,5
+1102,Shoes,Accessories,Nike,Nike Shoes is very disappointed,2,No,5
+1103,Camera,Fashion,Sony,Sony Camera is not bad,3,No,5
+1104,Smartwatch,Electronics,Sony,Sony Smartwatch is great value for money,4,Yes,7
+1105,Shoes,Accessories,Sony,Sony Shoes is excellent product,5,No,5
+1106,Smartphone,Fashion,Dell,Dell Smartphone is waste of money,2,No,6
+1107,Headphones,Fashion,Apple,Apple Headphones is cheap material,1,Yes,5
+1108,Headphones,Accessories,Nike,Nike Headphones is loved it,4,Yes,5
+1109,Headphones,Electronics,HP,HP Headphones is average product,3,Yes,5
+1110,Smartphone,Accessories,Nike,Nike Smartphone is waste of money,2,Yes,6
+1111,Backpack,Electronics,Sony,Sony Backpack is very disappointed,1,Yes,5
+1112,Shoes,Fashion,Samsung,Samsung Shoes is cheap material,2,Yes,5
+1113,Tablet,Accessories,Adidas,Adidas Tablet is could be better,3,Yes,6
+1114,Backpack,Accessories,Samsung,Samsung Backpack is excellent product,5,Yes,5
+1115,Camera,Fashion,Apple,Apple Camera is could be better,3,No,6
+1116,Laptop,Electronics,Samsung,Samsung Laptop is very good quality,5,Yes,6
+1117,Headphones,Fashion,Apple,Apple Headphones is late delivery,2,No,5
+1118,Backpack,Fashion,Apple,Apple Backpack is product stopped working,1,Yes,6
+1119,Tablet,Accessories,Nike,Nike Tablet is cheap material,2,No,5
+1120,Headphones,Accessories,HP,HP Headphones is fast delivery,5,No,5
+1121,Tablet,Accessories,Boat,Boat Tablet is excellent product,5,Yes,5
+1122,Tablet,Electronics,HP,HP Tablet is waste of money,2,No,6
+1123,Shoes,Accessories,Boat,Boat Shoes is not satisfied,1,No,5
+1124,Smartphone,Accessories,Apple,Apple Smartphone is poor quality,1,No,5
+1125,Shoes,Fashion,Adidas,Adidas Shoes is waste of money,2,Yes,6
+1126,Laptop,Electronics,Dell,Dell Laptop is average product,3,Yes,5
+1127,Camera,Fashion,Nike,Nike Camera is poor quality,1,No,5
+1128,Shoes,Electronics,Adidas,Adidas Shoes is decent performance,3,Yes,5
+1129,Laptop,Accessories,HP,HP Laptop is worth the price,5,Yes,6
+1130,Smartphone,Accessories,Sony,Sony Smartphone is fast delivery,4,No,5
+1131,Shoes,Accessories,Adidas,Adidas Shoes is late delivery,2,No,5
+1132,Headphones,Electronics,Samsung,Samsung Headphones is waste of money,1,Yes,6
+1133,Smartwatch,Accessories,Dell,Dell Smartwatch is very good quality,4,Yes,6
+1134,Camera,Electronics,Boat,Boat Camera is okay for the price,3,No,7
+1135,Camera,Electronics,Samsung,Samsung Camera is not satisfied,2,Yes,5
+1136,Tablet,Fashion,Samsung,Samsung Tablet is great value for money,5,Yes,7
+1137,Smartphone,Electronics,Adidas,Adidas Smartphone is loved it,5,Yes,5
+1138,Camera,Accessories,Dell,Dell Camera is decent performance,3,No,5
+1139,Tablet,Electronics,Dell,Dell Tablet is great value for money,5,Yes,7
+1140,Camera,Accessories,Adidas,Adidas Camera is average product,3,Yes,5
+1141,Laptop,Accessories,Dell,Dell Laptop is late delivery,2,No,5
+1142,Headphones,Accessories,Nike,Nike Headphones is late delivery,1,Yes,5
+1143,Smartwatch,Accessories,Boat,Boat Smartwatch is very disappointed,2,No,5
+1144,Headphones,Accessories,Nike,Nike Headphones is decent performance,3,No,5
+1145,Headphones,Fashion,Boat,Boat Headphones is very disappointed,2,Yes,5
+1146,Headphones,Electronics,Sony,Sony Headphones is decent performance,3,Yes,5
+1147,Laptop,Fashion,HP,HP Laptop is decent performance,3,No,5
+1148,Smartphone,Fashion,Adidas,Adidas Smartphone is very good quality,4,No,6
+1149,Headphones,Electronics,Samsung,Samsung Headphones is okay for the price,3,No,7
+1150,Laptop,Fashion,Boat,Boat Laptop is waste of money,1,No,6
+1151,Shoes,Accessories,Sony,Sony Shoes is very disappointed,1,Yes,5
+1152,Tablet,Electronics,Dell,Dell Tablet is average product,3,Yes,5
+1153,Laptop,Accessories,Samsung,Samsung Laptop is could be better,3,Yes,6
+1154,Backpack,Accessories,Sony,Sony Backpack is worth the price,4,No,6
+1155,Tablet,Electronics,Apple,Apple Tablet is decent performance,3,No,5
+1156,Smartwatch,Fashion,Dell,Dell Smartwatch is not satisfied,1,Yes,5
+1157,Shoes,Electronics,Sony,Sony Shoes is great value for money,5,No,7
+1158,Smartwatch,Accessories,Sony,Sony Smartwatch is late delivery,2,No,5
+1159,Camera,Fashion,HP,HP Camera is highly recommended,5,No,5
+1160,Smartphone,Electronics,Apple,Apple Smartphone is great value for money,4,No,7
+1161,Camera,Fashion,Samsung,Samsung Camera is late delivery,1,Yes,5
+1162,Smartphone,Fashion,Nike,Nike Smartphone is okay for the price,3,No,7
+1163,Shoes,Fashion,Adidas,Adidas Shoes is could be better,3,Yes,6
+1164,Tablet,Accessories,Boat,Boat Tablet is not satisfied,2,No,5
+1165,Camera,Fashion,Boat,Boat Camera is not bad,3,Yes,5
+1166,Headphones,Electronics,Nike,Nike Headphones is awesome performance,5,Yes,5
+1167,Shoes,Accessories,Adidas,Adidas Shoes is could be better,3,Yes,6
+1168,Smartwatch,Accessories,Nike,Nike Smartwatch is excellent product,5,No,5
+1169,Smartphone,Fashion,Adidas,Adidas Smartphone is average product,3,No,5
+1170,Tablet,Accessories,Nike,Nike Tablet is excellent product,4,Yes,5
+1171,Smartwatch,Fashion,Adidas,Adidas Smartwatch is very disappointed,1,No,5
+1172,Headphones,Accessories,HP,HP Headphones is could be better,3,Yes,6
+1173,Backpack,Electronics,Dell,Dell Backpack is awesome performance,4,Yes,5
+1174,Camera,Electronics,Apple,Apple Camera is decent performance,3,Yes,5
+1175,Smartwatch,Electronics,Dell,Dell Smartwatch is not satisfied,2,No,5
+1176,Camera,Fashion,HP,HP Camera is could be better,3,No,6
+1177,Tablet,Accessories,Dell,Dell Tablet is decent performance,3,No,5
+1178,Tablet,Electronics,Dell,Dell Tablet is highly recommended,4,Yes,5
+1179,Tablet,Electronics,Dell,Dell Tablet is okay for the price,3,Yes,7
+1180,Laptop,Electronics,HP,HP Laptop is not bad,3,Yes,5
+1181,Headphones,Fashion,Apple,Apple Headphones is product stopped working,1,No,6
+1182,Tablet,Electronics,Samsung,Samsung Tablet is product stopped working,2,Yes,6
+1183,Smartphone,Fashion,Nike,Nike Smartphone is decent performance,3,Yes,5
+1184,Laptop,Electronics,Adidas,Adidas Laptop is great value for money,4,Yes,7
+1185,Tablet,Fashion,Adidas,Adidas Tablet is cheap material,2,No,5
+1186,Headphones,Accessories,Sony,Sony Headphones is could be better,3,No,6
+1187,Backpack,Accessories,Apple,Apple Backpack is cheap material,1,No,5
+1188,Backpack,Accessories,Samsung,Samsung Backpack is bad experience,2,No,5
+1189,Laptop,Accessories,Sony,Sony Laptop is not bad,3,Yes,5
+1190,Laptop,Electronics,Apple,Apple Laptop is not bad,3,Yes,5
+1191,Smartwatch,Accessories,Dell,Dell Smartwatch is could be better,3,Yes,6
+1192,Shoes,Electronics,Boat,Boat Shoes is highly recommended,4,No,5
+1193,Smartphone,Electronics,Dell,Dell Smartphone is awesome performance,5,No,5
+1194,Smartphone,Fashion,Adidas,Adidas Smartphone is not satisfied,2,No,5
+1195,Headphones,Electronics,Nike,Nike Headphones is worth the price,4,Yes,6
+1196,Shoes,Accessories,HP,HP Shoes is waste of money,1,Yes,6
+1197,Smartphone,Fashion,Samsung,Samsung Smartphone is awesome performance,4,No,5
+1198,Camera,Fashion,Adidas,Adidas Camera is awesome performance,4,No,5
+1199,Smartwatch,Fashion,Boat,Boat Smartwatch is excellent product,4,No,5
+1200,Backpack,Accessories,Dell,Dell Backpack is loved it,4,No,5
+1201,Camera,Electronics,Boat,Boat Camera is great value for money,4,No,7
+1202,Laptop,Accessories,Boat,Boat Laptop is could be better,3,Yes,6
+1203,Laptop,Electronics,Boat,Boat Laptop is late delivery,2,No,5
+1204,Smartwatch,Accessories,HP,HP Smartwatch is okay for the price,3,No,7
+1205,Shoes,Electronics,Sony,Sony Shoes is excellent product,5,Yes,5
+1206,Camera,Accessories,Adidas,Adidas Camera is product stopped working,2,Yes,6
+1207,Shoes,Electronics,Samsung,Samsung Shoes is could be better,3,Yes,6
+1208,Laptop,Accessories,Sony,Sony Laptop is waste of money,2,No,6
+1209,Backpack,Accessories,Nike,Nike Backpack is bad experience,2,No,5
+1210,Backpack,Fashion,Boat,Boat Backpack is bad experience,2,No,5
+1211,Tablet,Electronics,Samsung,Samsung Tablet is highly recommended,4,Yes,5
+1212,Laptop,Accessories,Apple,Apple Laptop is cheap material,2,Yes,5
+1213,Laptop,Fashion,Adidas,Adidas Laptop is decent performance,3,No,5
+1214,Laptop,Fashion,Dell,Dell Laptop is not satisfied,1,Yes,5
+1215,Smartphone,Accessories,Nike,Nike Smartphone is poor quality,1,No,5
+1216,Smartwatch,Fashion,Boat,Boat Smartwatch is worth the price,5,No,6
+1217,Smartwatch,Electronics,Samsung,Samsung Smartwatch is loved it,5,No,5
+1218,Headphones,Accessories,Boat,Boat Headphones is loved it,5,Yes,5
+1219,Headphones,Accessories,Nike,Nike Headphones is highly recommended,4,Yes,5
+1220,Smartwatch,Accessories,Samsung,Samsung Smartwatch is not bad,3,No,5
+1221,Tablet,Fashion,Samsung,Samsung Tablet is could be better,3,Yes,6
+1222,Shoes,Accessories,Apple,Apple Shoes is late delivery,2,No,5
+1223,Smartwatch,Fashion,Samsung,Samsung Smartwatch is very disappointed,1,No,5
+1224,Backpack,Fashion,Samsung,Samsung Backpack is decent performance,3,Yes,5
+1225,Smartwatch,Electronics,HP,HP Smartwatch is waste of money,1,Yes,6
+1226,Shoes,Accessories,Apple,Apple Shoes is highly recommended,5,Yes,5
+1227,Smartphone,Fashion,Adidas,Adidas Smartphone is great value for money,5,Yes,7
+1228,Backpack,Fashion,Samsung,Samsung Backpack is great value for money,4,Yes,7
+1229,Tablet,Electronics,Apple,Apple Tablet is great value for money,4,Yes,7
+1230,Laptop,Electronics,Sony,Sony Laptop is fast delivery,5,No,5
+1231,Laptop,Accessories,Apple,Apple Laptop is loved it,5,Yes,5
+1232,Shoes,Fashion,HP,HP Shoes is average product,3,Yes,5
+1233,Smartwatch,Fashion,Samsung,Samsung Smartwatch is decent performance,3,No,5
+1234,Backpack,Fashion,Samsung,Samsung Backpack is late delivery,1,No,5
+1235,Laptop,Electronics,Apple,Apple Laptop is okay for the price,3,Yes,7
+1236,Headphones,Fashion,Nike,Nike Headphones is okay for the price,3,No,7
+1237,Smartwatch,Electronics,Sony,Sony Smartwatch is cheap material,1,Yes,5
+1238,Backpack,Accessories,Nike,Nike Backpack is loved it,5,Yes,5
+1239,Backpack,Fashion,Nike,Nike Backpack is great value for money,5,Yes,7
+1240,Headphones,Electronics,Samsung,Samsung Headphones is could be better,3,Yes,6
+1241,Smartwatch,Electronics,Boat,Boat Smartwatch is very disappointed,1,No,5
+1242,Backpack,Accessories,Adidas,Adidas Backpack is great value for money,5,No,7
+1243,Laptop,Electronics,Dell,Dell Laptop is very disappointed,1,No,5
+1244,Smartwatch,Accessories,Dell,Dell Smartwatch is excellent product,4,Yes,5
+1245,Camera,Fashion,Boat,Boat Camera is great value for money,5,Yes,7
+1246,Laptop,Electronics,Adidas,Adidas Laptop is awesome performance,4,Yes,5
+1247,Smartwatch,Electronics,Adidas,Adidas Smartwatch is loved it,5,Yes,5
+1248,Headphones,Fashion,Boat,Boat Headphones is very good quality,5,Yes,6
+1249,Smartwatch,Electronics,Samsung,Samsung Smartwatch is bad experience,1,No,5
+1250,Camera,Fashion,Apple,Apple Camera is excellent product,4,Yes,5
+1251,Backpack,Accessories,Adidas,Adidas Backpack is cheap material,1,Yes,5
+1252,Camera,Electronics,Apple,Apple Camera is could be better,3,Yes,6
+1253,Camera,Fashion,Adidas,Adidas Camera is very good quality,4,No,6
+1254,Smartphone,Accessories,Boat,Boat Smartphone is okay for the price,3,No,7
+1255,Smartphone,Electronics,Nike,Nike Smartphone is awesome performance,4,No,5
+1256,Laptop,Accessories,Sony,Sony Laptop is worth the price,5,No,6
+1257,Backpack,Accessories,Dell,Dell Backpack is could be better,3,No,6
+1258,Tablet,Fashion,Dell,Dell Tablet is awesome performance,5,No,5
+1259,Smartphone,Electronics,Boat,Boat Smartphone is decent performance,3,Yes,5
+1260,Smartwatch,Fashion,Nike,Nike Smartwatch is bad experience,2,No,5
+1261,Backpack,Accessories,Nike,Nike Backpack is okay for the price,3,Yes,7
+1262,Tablet,Electronics,Adidas,Adidas Tablet is worth the price,5,Yes,6
+1263,Tablet,Fashion,Dell,Dell Tablet is very disappointed,2,No,5
+1264,Shoes,Electronics,HP,HP Shoes is cheap material,2,Yes,5
+1265,Laptop,Electronics,Adidas,Adidas Laptop is bad experience,2,No,5
+1266,Laptop,Electronics,Nike,Nike Laptop is could be better,3,Yes,6
+1267,Smartphone,Fashion,Boat,Boat Smartphone is worth the price,5,Yes,6
+1268,Shoes,Accessories,Nike,Nike Shoes is not bad,3,No,5
+1269,Smartphone,Fashion,Nike,Nike Smartphone is highly recommended,5,No,5
+1270,Tablet,Fashion,Sony,Sony Tablet is late delivery,1,Yes,5
+1271,Smartwatch,Accessories,Dell,Dell Smartwatch is very good quality,5,No,6
+1272,Smartwatch,Accessories,HP,HP Smartwatch is waste of money,2,No,6
+1273,Smartphone,Electronics,Adidas,Adidas Smartphone is great value for money,5,Yes,7
+1274,Backpack,Electronics,Adidas,Adidas Backpack is poor quality,2,No,5
+1275,Backpack,Accessories,Samsung,Samsung Backpack is late delivery,2,Yes,5
+1276,Camera,Electronics,HP,HP Camera is highly recommended,5,No,5
+1277,Tablet,Fashion,Apple,Apple Tablet is fast delivery,4,No,5
+1278,Laptop,Electronics,Sony,Sony Laptop is not bad,3,Yes,5
+1279,Headphones,Electronics,Boat,Boat Headphones is great value for money,4,No,7
+1280,Shoes,Fashion,Apple,Apple Shoes is bad experience,1,Yes,5
+1281,Backpack,Fashion,HP,HP Backpack is poor quality,1,Yes,5
+1282,Tablet,Fashion,Apple,Apple Tablet is highly recommended,5,Yes,5
+1283,Camera,Electronics,Dell,Dell Camera is very good quality,5,No,6
+1284,Tablet,Electronics,Nike,Nike Tablet is okay for the price,3,Yes,7
+1285,Camera,Accessories,Boat,Boat Camera is great value for money,4,No,7
+1286,Tablet,Accessories,Dell,Dell Tablet is decent performance,3,Yes,5
+1287,Shoes,Fashion,Dell,Dell Shoes is average product,3,No,5
+1288,Smartwatch,Accessories,Sony,Sony Smartwatch is not satisfied,2,No,5
+1289,Laptop,Accessories,HP,HP Laptop is late delivery,1,Yes,5
+1290,Shoes,Accessories,Apple,Apple Shoes is highly recommended,5,Yes,5
+1291,Backpack,Electronics,Apple,Apple Backpack is late delivery,1,No,5
+1292,Shoes,Accessories,Boat,Boat Shoes is cheap material,1,Yes,5
+1293,Tablet,Fashion,HP,HP Tablet is poor quality,1,No,5
+1294,Smartphone,Electronics,Nike,Nike Smartphone is fast delivery,4,Yes,5
+1295,Tablet,Electronics,Apple,Apple Tablet is cheap material,2,Yes,5
+1296,Headphones,Fashion,Dell,Dell Headphones is decent performance,3,Yes,5
+1297,Headphones,Electronics,Nike,Nike Headphones is excellent product,4,No,5
+1298,Shoes,Fashion,Sony,Sony Shoes is worth the price,4,No,6
+1299,Smartwatch,Accessories,Dell,Dell Smartwatch is very good quality,4,Yes,6
+1300,Laptop,Accessories,HP,HP Laptop is could be better,3,No,6
+1301,Smartphone,Electronics,HP,HP Smartphone is poor quality,1,Yes,5
+1302,Laptop,Fashion,Samsung,Samsung Laptop is bad experience,1,Yes,5
+1303,Laptop,Electronics,Boat,Boat Laptop is awesome performance,4,Yes,5
+1304,Smartphone,Accessories,HP,HP Smartphone is okay for the price,3,Yes,7
+1305,Smartwatch,Fashion,HP,HP Smartwatch is very disappointed,1,Yes,5
+1306,Backpack,Electronics,Adidas,Adidas Backpack is very good quality,4,Yes,6
+1307,Camera,Fashion,Boat,Boat Camera is very disappointed,1,Yes,5
+1308,Smartphone,Electronics,Apple,Apple Smartphone is loved it,5,No,5
+1309,Headphones,Electronics,Nike,Nike Headphones is cheap material,1,No,5
+1310,Headphones,Electronics,Adidas,Adidas Headphones is decent performance,3,No,5
+1311,Laptop,Electronics,Adidas,Adidas Laptop is decent performance,3,No,5
+1312,Smartwatch,Accessories,Samsung,Samsung Smartwatch is bad experience,1,Yes,5
+1313,Smartwatch,Electronics,Apple,Apple Smartwatch is bad experience,2,Yes,5
+1314,Smartwatch,Fashion,Sony,Sony Smartwatch is cheap material,2,Yes,5
+1315,Smartwatch,Accessories,Dell,Dell Smartwatch is average product,3,No,5
+1316,Smartphone,Accessories,HP,HP Smartphone is loved it,5,No,5
+1317,Backpack,Electronics,Boat,Boat Backpack is very good quality,5,Yes,6
+1318,Smartwatch,Accessories,HP,HP Smartwatch is okay for the price,3,No,7
+1319,Laptop,Electronics,Dell,Dell Laptop is great value for money,4,Yes,7
+1320,Headphones,Electronics,Apple,Apple Headphones is highly recommended,4,Yes,5
+1321,Tablet,Electronics,Nike,Nike Tablet is worth the price,5,Yes,6
+1322,Smartwatch,Fashion,Nike,Nike Smartwatch is fast delivery,4,No,5
+1323,Shoes,Electronics,Dell,Dell Shoes is okay for the price,3,No,7
+1324,Tablet,Fashion,Dell,Dell Tablet is late delivery,1,No,5
+1325,Camera,Electronics,HP,HP Camera is great value for money,4,No,7
+1326,Headphones,Fashion,Sony,Sony Headphones is could be better,3,No,6
+1327,Shoes,Accessories,HP,HP Shoes is product stopped working,2,No,6
+1328,Tablet,Electronics,Boat,Boat Tablet is awesome performance,4,Yes,5
+1329,Tablet,Fashion,HP,HP Tablet is excellent product,5,No,5
+1330,Camera,Fashion,Dell,Dell Camera is not bad,3,Yes,5
+1331,Camera,Electronics,Sony,Sony Camera is poor quality,1,No,5
+1332,Backpack,Accessories,Samsung,Samsung Backpack is very disappointed,2,No,5
+1333,Tablet,Fashion,Samsung,Samsung Tablet is bad experience,1,Yes,5
+1334,Shoes,Accessories,Dell,Dell Shoes is okay for the price,3,Yes,7
+1335,Smartphone,Electronics,Apple,Apple Smartphone is bad experience,1,No,5
+1336,Camera,Fashion,Sony,Sony Camera is waste of money,1,No,6
+1337,Camera,Accessories,Nike,Nike Camera is not bad,3,No,5
+1338,Laptop,Electronics,Adidas,Adidas Laptop is average product,3,No,5
+1339,Camera,Electronics,Nike,Nike Camera is okay for the price,3,Yes,7
+1340,Laptop,Accessories,HP,HP Laptop is poor quality,1,No,5
+1341,Camera,Electronics,Sony,Sony Camera is not bad,3,No,5
+1342,Tablet,Accessories,Sony,Sony Tablet is highly recommended,4,Yes,5
+1343,Smartwatch,Accessories,Samsung,Samsung Smartwatch is bad experience,1,Yes,5
+1344,Tablet,Accessories,Apple,Apple Tablet is loved it,5,Yes,5
+1345,Camera,Fashion,Apple,Apple Camera is loved it,4,Yes,5
+1346,Tablet,Accessories,Dell,Dell Tablet is poor quality,1,Yes,5
+1347,Smartphone,Electronics,Samsung,Samsung Smartphone is excellent product,5,Yes,5
+1348,Camera,Fashion,Nike,Nike Camera is average product,3,No,5
+1349,Backpack,Fashion,Adidas,Adidas Backpack is late delivery,2,Yes,5
+1350,Smartphone,Fashion,Adidas,Adidas Smartphone is late delivery,2,Yes,5
+1351,Headphones,Accessories,Samsung,Samsung Headphones is great value for money,5,Yes,7
+1352,Smartwatch,Fashion,Adidas,Adidas Smartwatch is not bad,3,No,5
+1353,Smartwatch,Accessories,Samsung,Samsung Smartwatch is decent performance,3,No,5
+1354,Backpack,Electronics,Dell,Dell Backpack is awesome performance,4,No,5
+1355,Camera,Accessories,Dell,Dell Camera is waste of money,2,Yes,6
+1356,Shoes,Accessories,Boat,Boat Shoes is decent performance,3,Yes,5
+1357,Smartphone,Fashion,Sony,Sony Smartphone is could be better,3,Yes,6
+1358,Tablet,Fashion,Apple,Apple Tablet is cheap material,1,Yes,5
+1359,Laptop,Fashion,Apple,Apple Laptop is very good quality,4,Yes,6
+1360,Shoes,Accessories,Boat,Boat Shoes is awesome performance,5,No,5
+1361,Laptop,Accessories,Sony,Sony Laptop is decent performance,3,No,5
+1362,Laptop,Fashion,Adidas,Adidas Laptop is awesome performance,4,No,5
+1363,Camera,Electronics,Boat,Boat Camera is could be better,3,No,6
+1364,Laptop,Fashion,Apple,Apple Laptop is loved it,4,Yes,5
+1365,Backpack,Fashion,Sony,Sony Backpack is average product,3,No,5
+1366,Shoes,Accessories,Samsung,Samsung Shoes is average product,3,Yes,5
+1367,Backpack,Accessories,Sony,Sony Backpack is late delivery,2,Yes,5
+1368,Tablet,Electronics,Adidas,Adidas Tablet is fast delivery,4,No,5
+1369,Headphones,Electronics,Nike,Nike Headphones is great value for money,5,Yes,7
+1370,Shoes,Fashion,Apple,Apple Shoes is not bad,3,No,5
+1371,Tablet,Accessories,Nike,Nike Tablet is okay for the price,3,No,7
+1372,Smartwatch,Accessories,Boat,Boat Smartwatch is awesome performance,4,Yes,5
+1373,Shoes,Electronics,Sony,Sony Shoes is great value for money,5,No,7
+1374,Backpack,Fashion,HP,HP Backpack is late delivery,2,Yes,5
+1375,Shoes,Accessories,Boat,Boat Shoes is not bad,3,No,5
+1376,Smartphone,Fashion,Nike,Nike Smartphone is highly recommended,5,Yes,5
+1377,Tablet,Fashion,Dell,Dell Tablet is okay for the price,3,Yes,7
+1378,Smartphone,Accessories,Adidas,Adidas Smartphone is very good quality,4,Yes,6
+1379,Camera,Accessories,HP,HP Camera is okay for the price,3,Yes,7
+1380,Tablet,Electronics,Sony,Sony Tablet is worth the price,5,Yes,6
+1381,Camera,Accessories,Sony,Sony Camera is not bad,3,No,5
+1382,Smartwatch,Fashion,HP,HP Smartwatch is excellent product,4,No,5
+1383,Headphones,Accessories,HP,HP Headphones is could be better,3,Yes,6
+1384,Tablet,Electronics,Adidas,Adidas Tablet is late delivery,2,Yes,5
+1385,Tablet,Electronics,Boat,Boat Tablet is worth the price,4,No,6
+1386,Camera,Accessories,Dell,Dell Camera is waste of money,1,No,6
+1387,Backpack,Accessories,Apple,Apple Backpack is not satisfied,1,Yes,5
+1388,Tablet,Accessories,Apple,Apple Tablet is poor quality,2,Yes,5
+1389,Headphones,Accessories,Samsung,Samsung Headphones is worth the price,4,No,6
+1390,Headphones,Accessories,Boat,Boat Headphones is waste of money,1,Yes,6
+1391,Laptop,Accessories,Apple,Apple Laptop is loved it,4,No,5
+1392,Smartphone,Fashion,Boat,Boat Smartphone is not satisfied,2,Yes,5
+1393,Tablet,Accessories,Sony,Sony Tablet is not bad,3,No,5
+1394,Backpack,Accessories,Boat,Boat Backpack is not bad,3,Yes,5
+1395,Smartwatch,Electronics,Samsung,Samsung Smartwatch is average product,3,Yes,5
+1396,Smartwatch,Fashion,Adidas,Adidas Smartwatch is bad experience,1,Yes,5
+1397,Camera,Accessories,Apple,Apple Camera is could be better,3,No,6
+1398,Camera,Electronics,Dell,Dell Camera is late delivery,1,No,5
+1399,Headphones,Electronics,Boat,Boat Headphones is decent performance,3,No,5
+1400,Backpack,Fashion,Sony,Sony Backpack is okay for the price,3,Yes,7
+1401,Smartphone,Electronics,Boat,Boat Smartphone is late delivery,2,No,5
+1402,Laptop,Accessories,Adidas,Adidas Laptop is worth the price,5,Yes,6
+1403,Headphones,Fashion,Boat,Boat Headphones is very disappointed,2,Yes,5
+1404,Camera,Electronics,Apple,Apple Camera is fast delivery,4,Yes,5
+1405,Tablet,Accessories,Apple,Apple Tablet is not bad,3,No,5
+1406,Shoes,Accessories,Nike,Nike Shoes is could be better,3,Yes,6
+1407,Camera,Fashion,Sony,Sony Camera is highly recommended,5,No,5
+1408,Smartphone,Accessories,Sony,Sony Smartphone is not satisfied,2,Yes,5
+1409,Smartphone,Accessories,Adidas,Adidas Smartphone is fast delivery,5,Yes,5
+1410,Camera,Electronics,Dell,Dell Camera is could be better,3,No,6
+1411,Shoes,Accessories,HP,HP Shoes is cheap material,2,Yes,5
+1412,Camera,Electronics,Adidas,Adidas Camera is waste of money,2,Yes,6
+1413,Headphones,Electronics,Samsung,Samsung Headphones is very good quality,4,No,6
+1414,Smartphone,Accessories,HP,HP Smartphone is decent performance,3,Yes,5
+1415,Camera,Accessories,Samsung,Samsung Camera is cheap material,1,Yes,5
+1416,Camera,Electronics,Adidas,Adidas Camera is average product,3,Yes,5
+1417,Headphones,Electronics,Boat,Boat Headphones is decent performance,3,Yes,5
+1418,Smartphone,Fashion,HP,HP Smartphone is not satisfied,2,No,5
+1419,Backpack,Accessories,Boat,Boat Backpack is awesome performance,4,Yes,5
+1420,Shoes,Electronics,Nike,Nike Shoes is product stopped working,2,Yes,6
+1421,Camera,Fashion,Boat,Boat Camera is could be better,3,Yes,6
+1422,Backpack,Accessories,Samsung,Samsung Backpack is cheap material,1,No,5
+1423,Laptop,Fashion,Samsung,Samsung Laptop is product stopped working,2,Yes,6
+1424,Laptop,Fashion,HP,HP Laptop is very disappointed,1,Yes,5
+1425,Laptop,Electronics,Dell,Dell Laptop is highly recommended,5,Yes,5
+1426,Smartwatch,Fashion,Dell,Dell Smartwatch is not bad,3,No,5
+1427,Headphones,Electronics,Nike,Nike Headphones is very disappointed,2,No,5
+1428,Headphones,Fashion,Sony,Sony Headphones is decent performance,3,No,5
+1429,Laptop,Fashion,Boat,Boat Laptop is awesome performance,4,Yes,5
+1430,Backpack,Electronics,Samsung,Samsung Backpack is fast delivery,5,Yes,5
+1431,Camera,Accessories,Dell,Dell Camera is product stopped working,1,No,6
+1432,Backpack,Accessories,HP,HP Backpack is okay for the price,3,No,7
+1433,Smartphone,Electronics,Sony,Sony Smartphone is worth the price,4,No,6
+1434,Smartwatch,Accessories,Samsung,Samsung Smartwatch is average product,3,No,5
+1435,Tablet,Fashion,Nike,Nike Tablet is poor quality,2,No,5
+1436,Headphones,Electronics,Sony,Sony Headphones is fast delivery,4,No,5
+1437,Camera,Fashion,Boat,Boat Camera is loved it,4,Yes,5
+1438,Headphones,Accessories,Boat,Boat Headphones is could be better,3,Yes,6
+1439,Camera,Fashion,Samsung,Samsung Camera is worth the price,4,Yes,6
+1440,Smartwatch,Electronics,Apple,Apple Smartwatch is fast delivery,4,No,5
+1441,Smartwatch,Fashion,Adidas,Adidas Smartwatch is product stopped working,1,No,6
+1442,Shoes,Fashion,Apple,Apple Shoes is fast delivery,4,No,5
+1443,Smartwatch,Electronics,Adidas,Adidas Smartwatch is very disappointed,2,Yes,5
+1444,Backpack,Fashion,Boat,Boat Backpack is excellent product,4,No,5
+1445,Headphones,Fashion,Nike,Nike Headphones is waste of money,2,No,6
+1446,Laptop,Accessories,Samsung,Samsung Laptop is product stopped working,1,Yes,6
+1447,Backpack,Accessories,Boat,Boat Backpack is very disappointed,2,No,5
+1448,Laptop,Accessories,Sony,Sony Laptop is fast delivery,4,Yes,5
+1449,Tablet,Electronics,Apple,Apple Tablet is very good quality,4,No,6
+1450,Headphones,Electronics,Samsung,Samsung Headphones is cheap material,1,Yes,5
+1451,Backpack,Accessories,Dell,Dell Backpack is product stopped working,2,Yes,6
+1452,Camera,Electronics,Samsung,Samsung Camera is waste of money,2,No,6
+1453,Shoes,Accessories,Samsung,Samsung Shoes is okay for the price,3,Yes,7
+1454,Camera,Accessories,Dell,Dell Camera is okay for the price,3,Yes,7
+1455,Camera,Accessories,HP,HP Camera is great value for money,5,No,7
+1456,Headphones,Accessories,Boat,Boat Headphones is highly recommended,4,Yes,5
+1457,Shoes,Electronics,Nike,Nike Shoes is decent performance,3,No,5
+1458,Laptop,Electronics,Sony,Sony Laptop is not bad,3,Yes,5
+1459,Shoes,Accessories,Samsung,Samsung Shoes is okay for the price,3,Yes,7
+1460,Smartphone,Electronics,Boat,Boat Smartphone is not satisfied,2,Yes,5
+1461,Backpack,Accessories,Apple,Apple Backpack is awesome performance,5,No,5
+1462,Camera,Fashion,Nike,Nike Camera is okay for the price,3,Yes,7
+1463,Backpack,Accessories,Boat,Boat Backpack is average product,3,No,5
+1464,Laptop,Accessories,HP,HP Laptop is loved it,4,No,5
+1465,Smartwatch,Electronics,Dell,Dell Smartwatch is could be better,3,No,6
+1466,Headphones,Electronics,Dell,Dell Headphones is bad experience,2,No,5
+1467,Laptop,Electronics,Dell,Dell Laptop is not satisfied,2,No,5
+1468,Tablet,Accessories,Sony,Sony Tablet is highly recommended,4,No,5
+1469,Headphones,Accessories,HP,HP Headphones is loved it,4,Yes,5
+1470,Camera,Fashion,Boat,Boat Camera is highly recommended,4,No,5
+1471,Laptop,Fashion,HP,HP Laptop is highly recommended,4,Yes,5
+1472,Headphones,Electronics,Boat,Boat Headphones is excellent product,4,No,5
+1473,Laptop,Accessories,Adidas,Adidas Laptop is excellent product,4,Yes,5
+1474,Tablet,Fashion,Sony,Sony Tablet is highly recommended,5,No,5
+1475,Smartphone,Accessories,Nike,Nike Smartphone is not satisfied,1,Yes,5
+1476,Shoes,Accessories,Apple,Apple Shoes is excellent product,4,No,5
+1477,Smartphone,Fashion,Boat,Boat Smartphone is excellent product,4,No,5
+1478,Smartwatch,Accessories,HP,HP Smartwatch is awesome performance,5,Yes,5
+1479,Smartwatch,Fashion,Apple,Apple Smartwatch is not satisfied,1,No,5
+1480,Backpack,Electronics,Apple,Apple Backpack is awesome performance,4,Yes,5
+1481,Headphones,Electronics,HP,HP Headphones is fast delivery,5,No,5
+1482,Backpack,Fashion,Apple,Apple Backpack is not bad,3,No,5
+1483,Shoes,Electronics,Apple,Apple Shoes is not bad,3,Yes,5
+1484,Backpack,Fashion,Sony,Sony Backpack is okay for the price,3,No,7
+1485,Laptop,Accessories,Apple,Apple Laptop is decent performance,3,No,5
+1486,Headphones,Fashion,Apple,Apple Headphones is not bad,3,Yes,5
+1487,Backpack,Fashion,Dell,Dell Backpack is fast delivery,5,No,5
+1488,Backpack,Accessories,Sony,Sony Backpack is decent performance,3,Yes,5
+1489,Tablet,Fashion,Boat,Boat Tablet is late delivery,2,Yes,5
+1490,Smartwatch,Electronics,Apple,Apple Smartwatch is decent performance,3,No,5
+1491,Backpack,Electronics,Dell,Dell Backpack is very good quality,4,Yes,6
+1492,Headphones,Fashion,Nike,Nike Headphones is awesome performance,5,Yes,5
+1493,Smartwatch,Electronics,Boat,Boat Smartwatch is decent performance,3,Yes,5
+1494,Laptop,Fashion,Sony,Sony Laptop is okay for the price,3,Yes,7
+1495,Backpack,Accessories,Samsung,Samsung Backpack is decent performance,3,Yes,5
+1496,Laptop,Accessories,Dell,Dell Laptop is could be better,3,Yes,6
+1497,Headphones,Electronics,Apple,Apple Headphones is highly recommended,5,Yes,5
+1498,Headphones,Accessories,Dell,Dell Headphones is fast delivery,4,Yes,5
+1499,Shoes,Fashion,Dell,Dell Shoes is could be better,3,No,6
+1500,Laptop,Electronics,Sony,Sony Laptop is poor quality,2,Yes,5
+1501,Headphones,Fashion,Samsung,Samsung Headphones is okay for the price,3,No,7
+1502,Shoes,Accessories,Nike,Nike Shoes is decent performance,3,Yes,5
+1503,Laptop,Electronics,HP,HP Laptop is not satisfied,2,Yes,5
+1504,Camera,Accessories,Sony,Sony Camera is poor quality,1,Yes,5
+1505,Tablet,Accessories,Adidas,Adidas Tablet is decent performance,3,No,5
+1506,Backpack,Electronics,HP,HP Backpack is not satisfied,1,No,5
+1507,Backpack,Electronics,Adidas,Adidas Backpack is worth the price,4,Yes,6
+1508,Laptop,Accessories,Boat,Boat Laptop is not satisfied,1,Yes,5
+1509,Smartphone,Fashion,Boat,Boat Smartphone is bad experience,1,Yes,5
+1510,Smartphone,Electronics,Dell,Dell Smartphone is could be better,3,Yes,6
+1511,Smartphone,Fashion,Adidas,Adidas Smartphone is waste of money,2,No,6
+1512,Backpack,Accessories,HP,HP Backpack is okay for the price,3,No,7
+1513,Camera,Accessories,Apple,Apple Camera is worth the price,5,Yes,6
+1514,Smartphone,Electronics,Nike,Nike Smartphone is fast delivery,5,Yes,5
+1515,Laptop,Accessories,Apple,Apple Laptop is decent performance,3,Yes,5
+1516,Backpack,Electronics,Dell,Dell Backpack is highly recommended,4,No,5
+1517,Smartphone,Electronics,HP,HP Smartphone is very disappointed,2,Yes,5
+1518,Laptop,Accessories,Sony,Sony Laptop is could be better,3,No,6
+1519,Shoes,Fashion,Apple,Apple Shoes is excellent product,4,Yes,5
+1520,Shoes,Electronics,Sony,Sony Shoes is very disappointed,1,No,5
+1521,Backpack,Electronics,Apple,Apple Backpack is not bad,3,Yes,5
+1522,Shoes,Fashion,Dell,Dell Shoes is decent performance,3,No,5
+1523,Laptop,Electronics,Dell,Dell Laptop is okay for the price,3,No,7
+1524,Headphones,Fashion,Dell,Dell Headphones is late delivery,2,No,5
+1525,Tablet,Accessories,Nike,Nike Tablet is waste of money,2,Yes,6
+1526,Smartwatch,Electronics,Samsung,Samsung Smartwatch is average product,3,Yes,5
+1527,Camera,Electronics,Apple,Apple Camera is late delivery,1,No,5
+1528,Tablet,Accessories,Dell,Dell Tablet is waste of money,2,No,6
+1529,Laptop,Fashion,HP,HP Laptop is worth the price,4,Yes,6
+1530,Backpack,Accessories,Adidas,Adidas Backpack is very disappointed,1,No,5
+1531,Shoes,Electronics,Dell,Dell Shoes is great value for money,4,Yes,7
+1532,Backpack,Accessories,Samsung,Samsung Backpack is not satisfied,1,No,5
+1533,Tablet,Electronics,Boat,Boat Tablet is awesome performance,5,Yes,5
+1534,Shoes,Electronics,Sony,Sony Shoes is fast delivery,5,Yes,5
+1535,Laptop,Accessories,Nike,Nike Laptop is loved it,5,No,5
+1536,Headphones,Electronics,Samsung,Samsung Headphones is bad experience,2,No,5
+1537,Smartwatch,Fashion,Adidas,Adidas Smartwatch is product stopped working,1,No,6
+1538,Backpack,Electronics,HP,HP Backpack is not satisfied,2,Yes,5
+1539,Backpack,Electronics,Samsung,Samsung Backpack is highly recommended,5,No,5
+1540,Laptop,Fashion,HP,HP Laptop is great value for money,5,Yes,7
+1541,Laptop,Electronics,Samsung,Samsung Laptop is not satisfied,2,Yes,5
+1542,Smartwatch,Electronics,Adidas,Adidas Smartwatch is not satisfied,2,Yes,5
+1543,Smartphone,Fashion,Adidas,Adidas Smartphone is could be better,3,Yes,6
+1544,Tablet,Fashion,Dell,Dell Tablet is product stopped working,1,No,6
+1545,Backpack,Electronics,Apple,Apple Backpack is very disappointed,2,No,5
+1546,Headphones,Fashion,HP,HP Headphones is very disappointed,1,No,5
+1547,Shoes,Electronics,Apple,Apple Shoes is decent performance,3,Yes,5
+1548,Laptop,Accessories,Dell,Dell Laptop is excellent product,5,Yes,5
+1549,Smartphone,Fashion,Nike,Nike Smartphone is decent performance,3,Yes,5
+1550,Laptop,Fashion,Boat,Boat Laptop is great value for money,5,Yes,7
+1551,Camera,Fashion,Samsung,Samsung Camera is cheap material,2,Yes,5
+1552,Shoes,Fashion,Nike,Nike Shoes is not bad,3,No,5
+1553,Smartphone,Electronics,HP,HP Smartphone is okay for the price,3,Yes,7
+1554,Backpack,Electronics,Adidas,Adidas Backpack is highly recommended,5,No,5
+1555,Camera,Accessories,Samsung,Samsung Camera is fast delivery,4,No,5
+1556,Camera,Accessories,Adidas,Adidas Camera is fast delivery,4,Yes,5
+1557,Headphones,Accessories,Apple,Apple Headphones is bad experience,1,No,5
+1558,Headphones,Electronics,Adidas,Adidas Headphones is not bad,3,Yes,5
+1559,Smartphone,Electronics,Sony,Sony Smartphone is excellent product,5,Yes,5
+1560,Smartphone,Fashion,Sony,Sony Smartphone is decent performance,3,No,5
+1561,Shoes,Accessories,Boat,Boat Shoes is very good quality,4,Yes,6
+1562,Shoes,Fashion,Samsung,Samsung Shoes is decent performance,3,Yes,5
+1563,Laptop,Accessories,Dell,Dell Laptop is excellent product,4,Yes,5
+1564,Shoes,Electronics,Sony,Sony Shoes is highly recommended,5,Yes,5
+1565,Camera,Fashion,Apple,Apple Camera is very disappointed,1,Yes,5
+1566,Laptop,Accessories,Boat,Boat Laptop is waste of money,2,No,6
+1567,Headphones,Fashion,Sony,Sony Headphones is very disappointed,2,Yes,5
+1568,Backpack,Fashion,Adidas,Adidas Backpack is excellent product,4,Yes,5
+1569,Smartwatch,Accessories,Samsung,Samsung Smartwatch is loved it,4,Yes,5
+1570,Headphones,Fashion,Boat,Boat Headphones is could be better,3,Yes,6
+1571,Headphones,Electronics,Boat,Boat Headphones is excellent product,5,Yes,5
+1572,Smartwatch,Fashion,Apple,Apple Smartwatch is product stopped working,2,No,6
+1573,Camera,Fashion,Boat,Boat Camera is cheap material,2,Yes,5
+1574,Laptop,Electronics,Nike,Nike Laptop is loved it,5,Yes,5
+1575,Camera,Fashion,Dell,Dell Camera is decent performance,3,No,5
+1576,Camera,Accessories,Boat,Boat Camera is waste of money,2,No,6
+1577,Headphones,Accessories,Samsung,Samsung Headphones is waste of money,2,No,6
+1578,Shoes,Fashion,Adidas,Adidas Shoes is decent performance,3,Yes,5
+1579,Camera,Fashion,Sony,Sony Camera is highly recommended,5,Yes,5
+1580,Backpack,Fashion,Sony,Sony Backpack is very good quality,5,Yes,6
+1581,Backpack,Fashion,Boat,Boat Backpack is awesome performance,4,No,5
+1582,Shoes,Accessories,Boat,Boat Shoes is worth the price,5,Yes,6
+1583,Camera,Fashion,HP,HP Camera is loved it,4,No,5
+1584,Tablet,Electronics,Dell,Dell Tablet is very good quality,4,No,6
+1585,Tablet,Accessories,Sony,Sony Tablet is waste of money,1,No,6
+1586,Smartwatch,Fashion,Samsung,Samsung Smartwatch is decent performance,3,Yes,5
+1587,Smartphone,Fashion,Dell,Dell Smartphone is could be better,3,Yes,6
+1588,Backpack,Electronics,Samsung,Samsung Backpack is poor quality,1,No,5
+1589,Shoes,Fashion,Adidas,Adidas Shoes is fast delivery,5,No,5
+1590,Smartphone,Fashion,HP,HP Smartphone is awesome performance,5,No,5
+1591,Laptop,Electronics,Samsung,Samsung Laptop is waste of money,2,Yes,6
+1592,Backpack,Electronics,HP,HP Backpack is highly recommended,4,Yes,5
+1593,Smartphone,Fashion,Samsung,Samsung Smartphone is very good quality,5,Yes,6
+1594,Laptop,Fashion,Nike,Nike Laptop is excellent product,5,No,5
+1595,Tablet,Electronics,Apple,Apple Tablet is not satisfied,1,No,5
+1596,Laptop,Accessories,Boat,Boat Laptop is fast delivery,5,No,5
+1597,Shoes,Accessories,Adidas,Adidas Shoes is decent performance,3,No,5
+1598,Shoes,Fashion,Apple,Apple Shoes is worth the price,5,Yes,6
+1599,Laptop,Fashion,Apple,Apple Laptop is okay for the price,3,Yes,7
+1600,Tablet,Electronics,HP,HP Tablet is excellent product,4,No,5
+1601,Backpack,Accessories,Nike,Nike Backpack is awesome performance,4,No,5
+1602,Laptop,Electronics,Sony,Sony Laptop is okay for the price,3,No,7
+1603,Camera,Electronics,Boat,Boat Camera is cheap material,1,No,5
+1604,Laptop,Fashion,Sony,Sony Laptop is not satisfied,2,Yes,5
+1605,Smartwatch,Fashion,Samsung,Samsung Smartwatch is average product,3,Yes,5
+1606,Tablet,Fashion,Adidas,Adidas Tablet is poor quality,2,Yes,5
+1607,Backpack,Electronics,HP,HP Backpack is average product,3,Yes,5
+1608,Smartphone,Fashion,Dell,Dell Smartphone is late delivery,2,No,5
+1609,Camera,Fashion,Boat,Boat Camera is excellent product,5,Yes,5
+1610,Tablet,Electronics,HP,HP Tablet is not satisfied,2,Yes,5
+1611,Laptop,Electronics,Boat,Boat Laptop is okay for the price,3,Yes,7
+1612,Laptop,Fashion,Apple,Apple Laptop is loved it,4,Yes,5
+1613,Camera,Electronics,HP,HP Camera is decent performance,3,Yes,5
+1614,Tablet,Electronics,Boat,Boat Tablet is not bad,3,Yes,5
+1615,Smartphone,Electronics,Apple,Apple Smartphone is product stopped working,2,No,6
+1616,Smartwatch,Fashion,Sony,Sony Smartwatch is not bad,3,Yes,5
+1617,Tablet,Electronics,Sony,Sony Tablet is highly recommended,5,No,5
+1618,Headphones,Electronics,Nike,Nike Headphones is very disappointed,1,Yes,5
+1619,Backpack,Accessories,Dell,Dell Backpack is average product,3,Yes,5
+1620,Laptop,Electronics,Samsung,Samsung Laptop is bad experience,2,No,5
+1621,Laptop,Fashion,Apple,Apple Laptop is highly recommended,4,No,5
+1622,Shoes,Fashion,Dell,Dell Shoes is cheap material,2,No,5
+1623,Shoes,Accessories,Adidas,Adidas Shoes is poor quality,2,No,5
+1624,Headphones,Electronics,HP,HP Headphones is loved it,4,Yes,5
+1625,Smartwatch,Fashion,HP,HP Smartwatch is cheap material,1,Yes,5
+1626,Smartwatch,Accessories,HP,HP Smartwatch is average product,3,Yes,5
+1627,Shoes,Fashion,Adidas,Adidas Shoes is cheap material,1,No,5
+1628,Shoes,Electronics,Nike,Nike Shoes is decent performance,3,Yes,5
+1629,Backpack,Fashion,Apple,Apple Backpack is could be better,3,No,6
+1630,Shoes,Electronics,Apple,Apple Shoes is not bad,3,No,5
+1631,Tablet,Accessories,Sony,Sony Tablet is okay for the price,3,No,7
+1632,Headphones,Fashion,Nike,Nike Headphones is could be better,3,No,6
+1633,Tablet,Electronics,Samsung,Samsung Tablet is loved it,4,No,5
+1634,Smartphone,Fashion,Dell,Dell Smartphone is average product,3,Yes,5
+1635,Smartphone,Electronics,Nike,Nike Smartphone is very disappointed,1,No,5
+1636,Shoes,Accessories,Sony,Sony Shoes is not satisfied,1,Yes,5
+1637,Smartwatch,Fashion,Samsung,Samsung Smartwatch is waste of money,2,No,6
+1638,Camera,Fashion,Apple,Apple Camera is fast delivery,5,No,5
+1639,Headphones,Accessories,HP,HP Headphones is not bad,3,No,5
+1640,Smartwatch,Electronics,Nike,Nike Smartwatch is okay for the price,3,No,7
+1641,Shoes,Electronics,Nike,Nike Shoes is okay for the price,3,No,7
+1642,Headphones,Fashion,HP,HP Headphones is decent performance,3,Yes,5
+1643,Backpack,Fashion,Dell,Dell Backpack is great value for money,5,No,7
+1644,Tablet,Accessories,Samsung,Samsung Tablet is late delivery,2,Yes,5
+1645,Shoes,Accessories,Boat,Boat Shoes is waste of money,1,No,6
+1646,Camera,Fashion,Sony,Sony Camera is loved it,4,Yes,5
+1647,Laptop,Fashion,Samsung,Samsung Laptop is cheap material,1,Yes,5
+1648,Tablet,Electronics,Adidas,Adidas Tablet is waste of money,2,Yes,6
+1649,Smartphone,Accessories,Boat,Boat Smartphone is could be better,3,Yes,6
+1650,Headphones,Accessories,Boat,Boat Headphones is decent performance,3,Yes,5
+1651,Tablet,Electronics,Boat,Boat Tablet is product stopped working,1,Yes,6
+1652,Laptop,Electronics,Boat,Boat Laptop is highly recommended,4,Yes,5
+1653,Camera,Electronics,Samsung,Samsung Camera is poor quality,2,No,5
+1654,Smartwatch,Accessories,Nike,Nike Smartwatch is cheap material,1,No,5
+1655,Laptop,Electronics,HP,HP Laptop is could be better,3,Yes,6
+1656,Headphones,Fashion,Boat,Boat Headphones is highly recommended,4,No,5
+1657,Tablet,Accessories,Adidas,Adidas Tablet is product stopped working,1,No,6
+1658,Tablet,Fashion,HP,HP Tablet is late delivery,1,Yes,5
+1659,Laptop,Electronics,HP,HP Laptop is loved it,5,No,5
+1660,Backpack,Fashion,Sony,Sony Backpack is great value for money,4,No,7
+1661,Backpack,Fashion,Boat,Boat Backpack is poor quality,1,No,5
+1662,Headphones,Fashion,Sony,Sony Headphones is average product,3,No,5
+1663,Shoes,Electronics,HP,HP Shoes is not satisfied,2,No,5
+1664,Shoes,Accessories,Sony,Sony Shoes is cheap material,1,No,5
+1665,Backpack,Electronics,HP,HP Backpack is could be better,3,Yes,6
+1666,Laptop,Fashion,Apple,Apple Laptop is highly recommended,4,No,5
+1667,Laptop,Accessories,Sony,Sony Laptop is bad experience,1,No,5
+1668,Shoes,Electronics,Apple,Apple Shoes is waste of money,1,Yes,6
+1669,Headphones,Electronics,Adidas,Adidas Headphones is very disappointed,1,No,5
+1670,Smartwatch,Fashion,Nike,Nike Smartwatch is not satisfied,1,No,5
+1671,Smartwatch,Accessories,Boat,Boat Smartwatch is not bad,3,Yes,5
+1672,Smartphone,Electronics,Apple,Apple Smartphone is bad experience,1,Yes,5
+1673,Camera,Fashion,Apple,Apple Camera is excellent product,5,Yes,5
+1674,Tablet,Electronics,Boat,Boat Tablet is could be better,3,No,6
+1675,Backpack,Electronics,Sony,Sony Backpack is not bad,3,No,5
+1676,Laptop,Accessories,Sony,Sony Laptop is late delivery,1,No,5
+1677,Smartwatch,Accessories,Samsung,Samsung Smartwatch is worth the price,5,No,6
+1678,Shoes,Accessories,HP,HP Shoes is very good quality,5,No,6
+1679,Laptop,Accessories,Boat,Boat Laptop is highly recommended,5,No,5
+1680,Tablet,Accessories,Nike,Nike Tablet is poor quality,1,Yes,5
+1681,Shoes,Fashion,Boat,Boat Shoes is awesome performance,5,Yes,5
+1682,Smartphone,Fashion,Boat,Boat Smartphone is very good quality,5,Yes,6
+1683,Smartphone,Electronics,Adidas,Adidas Smartphone is could be better,3,No,6
+1684,Laptop,Electronics,Dell,Dell Laptop is could be better,3,No,6
+1685,Laptop,Fashion,Samsung,Samsung Laptop is average product,3,Yes,5
+1686,Camera,Fashion,Dell,Dell Camera is not bad,3,Yes,5
+1687,Smartwatch,Accessories,HP,HP Smartwatch is excellent product,4,Yes,5
+1688,Smartphone,Fashion,HP,HP Smartphone is decent performance,3,Yes,5
+1689,Laptop,Electronics,Dell,Dell Laptop is late delivery,1,No,5
+1690,Camera,Electronics,Samsung,Samsung Camera is bad experience,2,Yes,5
+1691,Camera,Electronics,Samsung,Samsung Camera is excellent product,4,Yes,5
+1692,Headphones,Electronics,Dell,Dell Headphones is worth the price,4,No,6
+1693,Smartwatch,Electronics,Nike,Nike Smartwatch is awesome performance,5,No,5
+1694,Laptop,Accessories,Nike,Nike Laptop is waste of money,1,Yes,6
+1695,Tablet,Fashion,Nike,Nike Tablet is very disappointed,1,No,5
+1696,Shoes,Accessories,Adidas,Adidas Shoes is okay for the price,3,Yes,7
+1697,Tablet,Electronics,Nike,Nike Tablet is awesome performance,5,Yes,5
+1698,Smartwatch,Fashion,Apple,Apple Smartwatch is very good quality,5,Yes,6
+1699,Tablet,Electronics,Apple,Apple Tablet is very good quality,5,No,6
+1700,Camera,Electronics,Nike,Nike Camera is loved it,5,Yes,5
+1701,Smartphone,Fashion,HP,HP Smartphone is late delivery,2,No,5
+1702,Camera,Accessories,Sony,Sony Camera is very good quality,4,No,6
+1703,Shoes,Accessories,Samsung,Samsung Shoes is average product,3,No,5
+1704,Smartwatch,Fashion,Samsung,Samsung Smartwatch is awesome performance,5,No,5
+1705,Camera,Accessories,Nike,Nike Camera is poor quality,1,No,5
+1706,Camera,Accessories,Dell,Dell Camera is product stopped working,1,Yes,6
+1707,Shoes,Electronics,Apple,Apple Shoes is excellent product,5,No,5
+1708,Shoes,Fashion,Adidas,Adidas Shoes is late delivery,1,No,5
+1709,Smartphone,Fashion,Apple,Apple Smartphone is could be better,3,No,6
+1710,Tablet,Fashion,Samsung,Samsung Tablet is not satisfied,2,Yes,5
+1711,Tablet,Fashion,Boat,Boat Tablet is poor quality,2,Yes,5
+1712,Shoes,Electronics,Adidas,Adidas Shoes is average product,3,No,5
+1713,Shoes,Electronics,Dell,Dell Shoes is loved it,5,Yes,5
+1714,Headphones,Electronics,Samsung,Samsung Headphones is okay for the price,3,Yes,7
+1715,Headphones,Accessories,Dell,Dell Headphones is average product,3,No,5
+1716,Shoes,Electronics,Nike,Nike Shoes is very good quality,4,No,6
+1717,Smartwatch,Electronics,Adidas,Adidas Smartwatch is average product,3,Yes,5
+1718,Laptop,Electronics,Apple,Apple Laptop is decent performance,3,Yes,5
+1719,Laptop,Fashion,HP,HP Laptop is very disappointed,2,Yes,5
+1720,Backpack,Accessories,HP,HP Backpack is awesome performance,5,No,5
+1721,Headphones,Electronics,Adidas,Adidas Headphones is product stopped working,1,No,6
+1722,Smartwatch,Accessories,Adidas,Adidas Smartwatch is excellent product,4,No,5
+1723,Headphones,Accessories,HP,HP Headphones is fast delivery,4,Yes,5
+1724,Laptop,Accessories,Samsung,Samsung Laptop is very good quality,5,No,6
+1725,Tablet,Fashion,Adidas,Adidas Tablet is could be better,3,Yes,6
+1726,Smartwatch,Electronics,Adidas,Adidas Smartwatch is not bad,3,No,5
+1727,Laptop,Fashion,Boat,Boat Laptop is great value for money,5,No,7
+1728,Laptop,Accessories,Adidas,Adidas Laptop is waste of money,2,No,6
+1729,Tablet,Electronics,HP,HP Tablet is okay for the price,3,Yes,7
+1730,Camera,Accessories,Sony,Sony Camera is okay for the price,3,No,7
+1731,Laptop,Fashion,Apple,Apple Laptop is very disappointed,2,No,5
+1732,Tablet,Electronics,Boat,Boat Tablet is okay for the price,3,No,7
+1733,Camera,Accessories,Nike,Nike Camera is highly recommended,4,No,5
+1734,Headphones,Fashion,Samsung,Samsung Headphones is average product,3,Yes,5
+1735,Laptop,Accessories,Sony,Sony Laptop is okay for the price,3,No,7
+1736,Camera,Accessories,Boat,Boat Camera is very disappointed,1,No,5
+1737,Laptop,Electronics,Samsung,Samsung Laptop is awesome performance,5,No,5
+1738,Camera,Fashion,Nike,Nike Camera is late delivery,2,Yes,5
+1739,Laptop,Electronics,Sony,Sony Laptop is okay for the price,3,No,7
+1740,Camera,Fashion,Adidas,Adidas Camera is decent performance,3,Yes,5
+1741,Shoes,Electronics,Apple,Apple Shoes is could be better,3,No,6
+1742,Camera,Fashion,Nike,Nike Camera is very disappointed,1,No,5
+1743,Smartphone,Fashion,Boat,Boat Smartphone is not satisfied,1,No,5
+1744,Backpack,Fashion,Apple,Apple Backpack is could be better,3,No,6
+1745,Shoes,Fashion,Dell,Dell Shoes is worth the price,5,Yes,6
+1746,Laptop,Accessories,Boat,Boat Laptop is loved it,5,No,5
+1747,Headphones,Accessories,Samsung,Samsung Headphones is worth the price,4,Yes,6
+1748,Smartwatch,Fashion,Samsung,Samsung Smartwatch is could be better,3,Yes,6
+1749,Camera,Accessories,Dell,Dell Camera is bad experience,2,Yes,5
+1750,Laptop,Fashion,Dell,Dell Laptop is product stopped working,1,No,6
+1751,Shoes,Fashion,Apple,Apple Shoes is waste of money,1,Yes,6
+1752,Laptop,Electronics,Adidas,Adidas Laptop is okay for the price,3,No,7
+1753,Backpack,Fashion,Samsung,Samsung Backpack is cheap material,1,Yes,5
+1754,Backpack,Accessories,Boat,Boat Backpack is could be better,3,Yes,6
+1755,Smartwatch,Accessories,Sony,Sony Smartwatch is average product,3,No,5
+1756,Tablet,Fashion,Sony,Sony Tablet is very good quality,5,Yes,6
+1757,Shoes,Electronics,Sony,Sony Shoes is decent performance,3,Yes,5
+1758,Smartphone,Electronics,HP,HP Smartphone is okay for the price,3,No,7
+1759,Smartwatch,Electronics,Sony,Sony Smartwatch is could be better,3,No,6
+1760,Camera,Accessories,Boat,Boat Camera is not bad,3,No,5
+1761,Smartwatch,Accessories,Nike,Nike Smartwatch is not satisfied,2,No,5
+1762,Tablet,Electronics,Nike,Nike Tablet is late delivery,2,Yes,5
+1763,Tablet,Electronics,Adidas,Adidas Tablet is loved it,5,No,5
+1764,Backpack,Fashion,Apple,Apple Backpack is highly recommended,5,No,5
+1765,Tablet,Accessories,Dell,Dell Tablet is okay for the price,3,No,7
+1766,Smartphone,Fashion,Nike,Nike Smartphone is okay for the price,3,Yes,7
+1767,Shoes,Fashion,Adidas,Adidas Shoes is poor quality,2,No,5
+1768,Shoes,Fashion,Samsung,Samsung Shoes is late delivery,2,No,5
+1769,Backpack,Fashion,Samsung,Samsung Backpack is okay for the price,3,No,7
+1770,Smartwatch,Accessories,Apple,Apple Smartwatch is bad experience,1,No,5
+1771,Camera,Accessories,Apple,Apple Camera is excellent product,4,No,5
+1772,Smartwatch,Accessories,Adidas,Adidas Smartwatch is waste of money,1,Yes,6
+1773,Shoes,Fashion,Sony,Sony Shoes is fast delivery,4,No,5
+1774,Smartphone,Electronics,Samsung,Samsung Smartphone is bad experience,1,Yes,5
+1775,Tablet,Electronics,Samsung,Samsung Tablet is decent performance,3,No,5
+1776,Smartwatch,Fashion,Samsung,Samsung Smartwatch is poor quality,1,Yes,5
+1777,Shoes,Electronics,Apple,Apple Shoes is late delivery,1,Yes,5
+1778,Smartphone,Accessories,Samsung,Samsung Smartphone is decent performance,3,Yes,5
+1779,Shoes,Fashion,Adidas,Adidas Shoes is fast delivery,4,Yes,5
+1780,Smartwatch,Fashion,Apple,Apple Smartwatch is product stopped working,2,No,6
+1781,Laptop,Fashion,Boat,Boat Laptop is product stopped working,2,No,6
+1782,Camera,Fashion,Samsung,Samsung Camera is product stopped working,1,No,6
+1783,Smartwatch,Fashion,Samsung,Samsung Smartwatch is waste of money,2,Yes,6
+1784,Laptop,Fashion,Nike,Nike Laptop is very disappointed,2,Yes,5
+1785,Laptop,Electronics,Sony,Sony Laptop is average product,3,No,5
+1786,Laptop,Fashion,Sony,Sony Laptop is okay for the price,3,No,7
+1787,Smartwatch,Fashion,Samsung,Samsung Smartwatch is could be better,3,No,6
+1788,Headphones,Fashion,Samsung,Samsung Headphones is product stopped working,2,No,6
+1789,Tablet,Fashion,Dell,Dell Tablet is loved it,4,Yes,5
+1790,Laptop,Fashion,Apple,Apple Laptop is cheap material,2,Yes,5
+1791,Headphones,Electronics,Apple,Apple Headphones is not satisfied,1,Yes,5
+1792,Camera,Electronics,Dell,Dell Camera is waste of money,1,No,6
+1793,Smartphone,Electronics,Nike,Nike Smartphone is fast delivery,5,No,5
+1794,Backpack,Electronics,Sony,Sony Backpack is product stopped working,2,No,6
+1795,Backpack,Fashion,Nike,Nike Backpack is okay for the price,3,No,7
+1796,Headphones,Electronics,Dell,Dell Headphones is awesome performance,4,No,5
+1797,Tablet,Electronics,Apple,Apple Tablet is not satisfied,1,No,5
+1798,Smartwatch,Accessories,Apple,Apple Smartwatch is okay for the price,3,No,7
+1799,Tablet,Electronics,Sony,Sony Tablet is waste of money,1,No,6
+1800,Smartwatch,Accessories,Adidas,Adidas Smartwatch is could be better,3,Yes,6
+1801,Camera,Fashion,Nike,Nike Camera is loved it,5,No,5
+1802,Headphones,Accessories,Apple,Apple Headphones is bad experience,1,Yes,5
+1803,Laptop,Accessories,Sony,Sony Laptop is not satisfied,2,No,5
+1804,Smartwatch,Electronics,Sony,Sony Smartwatch is product stopped working,2,Yes,6
+1805,Headphones,Fashion,Sony,Sony Headphones is worth the price,4,Yes,6
+1806,Headphones,Fashion,Dell,Dell Headphones is waste of money,1,No,6
+1807,Smartwatch,Fashion,HP,HP Smartwatch is product stopped working,1,No,6
+1808,Backpack,Accessories,Nike,Nike Backpack is decent performance,3,No,5
+1809,Smartwatch,Accessories,Sony,Sony Smartwatch is average product,3,No,5
+1810,Camera,Fashion,Dell,Dell Camera is okay for the price,3,No,7
+1811,Camera,Electronics,Adidas,Adidas Camera is average product,3,Yes,5
+1812,Camera,Accessories,Boat,Boat Camera is cheap material,2,Yes,5
+1813,Smartphone,Fashion,Boat,Boat Smartphone is very disappointed,1,No,5
+1814,Smartphone,Fashion,Nike,Nike Smartphone is okay for the price,3,Yes,7
+1815,Shoes,Accessories,Samsung,Samsung Shoes is product stopped working,1,No,6
+1816,Camera,Accessories,Samsung,Samsung Camera is decent performance,3,No,5
+1817,Tablet,Fashion,Dell,Dell Tablet is poor quality,1,Yes,5
+1818,Backpack,Accessories,Samsung,Samsung Backpack is waste of money,1,Yes,6
+1819,Headphones,Fashion,Apple,Apple Headphones is okay for the price,3,Yes,7
+1820,Backpack,Accessories,Apple,Apple Backpack is great value for money,4,No,7
+1821,Backpack,Accessories,Sony,Sony Backpack is excellent product,5,No,5
+1822,Camera,Accessories,HP,HP Camera is average product,3,Yes,5
+1823,Shoes,Electronics,Apple,Apple Shoes is very good quality,4,No,6
+1824,Camera,Accessories,Sony,Sony Camera is loved it,4,Yes,5
+1825,Laptop,Fashion,Adidas,Adidas Laptop is product stopped working,2,Yes,6
+1826,Laptop,Electronics,Apple,Apple Laptop is decent performance,3,Yes,5
+1827,Headphones,Accessories,Adidas,Adidas Headphones is average product,3,Yes,5
+1828,Backpack,Electronics,Dell,Dell Backpack is excellent product,4,Yes,5
+1829,Shoes,Fashion,Samsung,Samsung Shoes is bad experience,1,No,5
+1830,Backpack,Electronics,HP,HP Backpack is loved it,4,Yes,5
+1831,Shoes,Accessories,Nike,Nike Shoes is bad experience,1,No,5
+1832,Backpack,Fashion,Adidas,Adidas Backpack is waste of money,2,No,6
+1833,Smartphone,Electronics,HP,HP Smartphone is okay for the price,3,Yes,7
+1834,Backpack,Electronics,Nike,Nike Backpack is decent performance,3,No,5
+1835,Shoes,Accessories,Apple,Apple Shoes is could be better,3,Yes,6
+1836,Shoes,Electronics,Samsung,Samsung Shoes is bad experience,2,Yes,5
+1837,Backpack,Accessories,Adidas,Adidas Backpack is not satisfied,2,No,5
+1838,Smartphone,Accessories,Adidas,Adidas Smartphone is could be better,3,Yes,6
+1839,Smartphone,Fashion,Sony,Sony Smartphone is not bad,3,No,5
+1840,Headphones,Fashion,Adidas,Adidas Headphones is very disappointed,1,Yes,5
+1841,Tablet,Accessories,Dell,Dell Tablet is not satisfied,1,No,5
+1842,Tablet,Fashion,Boat,Boat Tablet is decent performance,3,No,5
+1843,Tablet,Fashion,HP,HP Tablet is not bad,3,Yes,5
+1844,Camera,Accessories,Nike,Nike Camera is worth the price,5,No,6
+1845,Headphones,Fashion,Sony,Sony Headphones is average product,3,Yes,5
+1846,Headphones,Electronics,Adidas,Adidas Headphones is okay for the price,3,Yes,7
+1847,Tablet,Electronics,HP,HP Tablet is not satisfied,2,No,5
+1848,Headphones,Fashion,Nike,Nike Headphones is highly recommended,4,Yes,5
+1849,Camera,Accessories,Apple,Apple Camera is very good quality,4,Yes,6
+1850,Tablet,Fashion,Sony,Sony Tablet is awesome performance,4,Yes,5
+1851,Tablet,Fashion,HP,HP Tablet is late delivery,1,Yes,5
+1852,Backpack,Fashion,Sony,Sony Backpack is fast delivery,4,No,5
+1853,Laptop,Fashion,Adidas,Adidas Laptop is late delivery,2,Yes,5
+1854,Backpack,Fashion,Adidas,Adidas Backpack is highly recommended,4,Yes,5
+1855,Camera,Accessories,Apple,Apple Camera is could be better,3,Yes,6
+1856,Smartphone,Fashion,Boat,Boat Smartphone is great value for money,4,No,7
+1857,Headphones,Electronics,HP,HP Headphones is awesome performance,5,No,5
+1858,Smartphone,Fashion,Nike,Nike Smartphone is late delivery,2,Yes,5
+1859,Tablet,Fashion,Apple,Apple Tablet is fast delivery,4,Yes,5
+1860,Smartphone,Fashion,Sony,Sony Smartphone is decent performance,3,Yes,5
+1861,Camera,Electronics,Dell,Dell Camera is could be better,3,No,6
+1862,Camera,Fashion,Samsung,Samsung Camera is decent performance,3,No,5
+1863,Backpack,Accessories,Dell,Dell Backpack is waste of money,2,No,6
+1864,Laptop,Fashion,Sony,Sony Laptop is not bad,3,No,5
+1865,Headphones,Fashion,Samsung,Samsung Headphones is average product,3,No,5
+1866,Smartphone,Fashion,Dell,Dell Smartphone is great value for money,5,Yes,7
+1867,Backpack,Accessories,Samsung,Samsung Backpack is great value for money,5,No,7
+1868,Shoes,Accessories,Samsung,Samsung Shoes is late delivery,2,No,5
+1869,Camera,Fashion,Samsung,Samsung Camera is loved it,5,No,5
+1870,Backpack,Accessories,Samsung,Samsung Backpack is poor quality,1,No,5
+1871,Laptop,Accessories,Sony,Sony Laptop is highly recommended,4,Yes,5
+1872,Camera,Fashion,Nike,Nike Camera is decent performance,3,No,5
+1873,Smartwatch,Electronics,Dell,Dell Smartwatch is could be better,3,Yes,6
+1874,Headphones,Fashion,Apple,Apple Headphones is very disappointed,1,Yes,5
+1875,Camera,Electronics,Samsung,Samsung Camera is product stopped working,2,No,6
+1876,Camera,Electronics,Apple,Apple Camera is average product,3,No,5
+1877,Backpack,Electronics,Dell,Dell Backpack is bad experience,1,No,5
+1878,Smartphone,Electronics,HP,HP Smartphone is not satisfied,2,No,5
+1879,Smartwatch,Fashion,Samsung,Samsung Smartwatch is poor quality,2,Yes,5
+1880,Backpack,Electronics,Apple,Apple Backpack is product stopped working,2,Yes,6
+1881,Laptop,Accessories,Nike,Nike Laptop is awesome performance,4,No,5
+1882,Backpack,Fashion,HP,HP Backpack is decent performance,3,Yes,5
+1883,Backpack,Electronics,Dell,Dell Backpack is very disappointed,2,No,5
+1884,Smartwatch,Accessories,Sony,Sony Smartwatch is decent performance,3,No,5
+1885,Laptop,Accessories,Dell,Dell Laptop is late delivery,1,No,5
+1886,Shoes,Fashion,Nike,Nike Shoes is very good quality,5,No,6
+1887,Smartphone,Accessories,Sony,Sony Smartphone is decent performance,3,Yes,5
+1888,Camera,Electronics,HP,HP Camera is not bad,3,No,5
+1889,Smartwatch,Accessories,HP,HP Smartwatch is decent performance,3,Yes,5
+1890,Camera,Electronics,Boat,Boat Camera is waste of money,1,Yes,6
+1891,Headphones,Accessories,Sony,Sony Headphones is not bad,3,No,5
+1892,Backpack,Fashion,Boat,Boat Backpack is decent performance,3,No,5
+1893,Backpack,Electronics,HP,HP Backpack is very disappointed,1,No,5
+1894,Tablet,Electronics,Sony,Sony Tablet is cheap material,2,No,5
+1895,Tablet,Accessories,Sony,Sony Tablet is poor quality,2,Yes,5
+1896,Camera,Accessories,Boat,Boat Camera is late delivery,2,Yes,5
+1897,Headphones,Accessories,Apple,Apple Headphones is okay for the price,3,No,7
+1898,Headphones,Accessories,Dell,Dell Headphones is awesome performance,4,Yes,5
+1899,Smartwatch,Fashion,Sony,Sony Smartwatch is poor quality,2,No,5
+1900,Headphones,Accessories,Dell,Dell Headphones is okay for the price,3,Yes,7
+1901,Laptop,Electronics,Samsung,Samsung Laptop is not satisfied,2,No,5
+1902,Smartwatch,Fashion,Sony,Sony Smartwatch is bad experience,2,Yes,5
+1903,Headphones,Fashion,Boat,Boat Headphones is not bad,3,Yes,5
+1904,Tablet,Electronics,HP,HP Tablet is excellent product,5,No,5
+1905,Tablet,Accessories,Dell,Dell Tablet is waste of money,1,Yes,6
+1906,Backpack,Accessories,HP,HP Backpack is late delivery,1,No,5
+1907,Headphones,Accessories,Nike,Nike Headphones is waste of money,1,Yes,6
+1908,Backpack,Accessories,HP,HP Backpack is okay for the price,3,No,7
+1909,Smartwatch,Electronics,Nike,Nike Smartwatch is very good quality,5,No,6
+1910,Tablet,Electronics,Dell,Dell Tablet is average product,3,No,5
+1911,Backpack,Accessories,Dell,Dell Backpack is product stopped working,2,No,6
+1912,Smartphone,Electronics,Sony,Sony Smartphone is not bad,3,No,5
+1913,Backpack,Fashion,Nike,Nike Backpack is very good quality,5,Yes,6
+1914,Tablet,Accessories,Dell,Dell Tablet is not bad,3,No,5
+1915,Shoes,Fashion,HP,HP Shoes is highly recommended,4,Yes,5
+1916,Headphones,Fashion,Samsung,Samsung Headphones is very good quality,5,No,6
+1917,Camera,Accessories,Dell,Dell Camera is could be better,3,Yes,6
+1918,Backpack,Fashion,HP,HP Backpack is not satisfied,2,Yes,5
+1919,Headphones,Fashion,Dell,Dell Headphones is decent performance,3,Yes,5
+1920,Backpack,Fashion,Boat,Boat Backpack is average product,3,Yes,5
+1921,Laptop,Fashion,Boat,Boat Laptop is highly recommended,5,No,5
+1922,Smartwatch,Accessories,Adidas,Adidas Smartwatch is poor quality,1,Yes,5
+1923,Laptop,Accessories,Nike,Nike Laptop is waste of money,2,Yes,6
+1924,Smartwatch,Accessories,Nike,Nike Smartwatch is great value for money,4,Yes,7
+1925,Smartwatch,Electronics,Dell,Dell Smartwatch is okay for the price,3,Yes,7
+1926,Shoes,Accessories,Apple,Apple Shoes is not bad,3,Yes,5
+1927,Headphones,Electronics,Nike,Nike Headphones is average product,3,Yes,5
+1928,Tablet,Accessories,Apple,Apple Tablet is very good quality,5,Yes,6
+1929,Tablet,Fashion,Apple,Apple Tablet is waste of money,1,Yes,6
+1930,Smartwatch,Fashion,Dell,Dell Smartwatch is bad experience,1,Yes,5
+1931,Laptop,Accessories,Dell,Dell Laptop is decent performance,3,Yes,5
+1932,Tablet,Fashion,Samsung,Samsung Tablet is could be better,3,No,6
+1933,Tablet,Fashion,Sony,Sony Tablet is not bad,3,No,5
+1934,Shoes,Accessories,Nike,Nike Shoes is not bad,3,Yes,5
+1935,Tablet,Electronics,Apple,Apple Tablet is product stopped working,2,No,6
+1936,Tablet,Electronics,Sony,Sony Tablet is awesome performance,5,Yes,5
+1937,Tablet,Accessories,Adidas,Adidas Tablet is product stopped working,1,Yes,6
+1938,Smartwatch,Accessories,Nike,Nike Smartwatch is worth the price,4,No,6
+1939,Shoes,Accessories,Boat,Boat Shoes is cheap material,1,Yes,5
+1940,Camera,Electronics,Sony,Sony Camera is not satisfied,1,Yes,5
+1941,Shoes,Fashion,Boat,Boat Shoes is cheap material,2,No,5
+1942,Shoes,Accessories,Adidas,Adidas Shoes is very disappointed,1,No,5
+1943,Tablet,Fashion,Nike,Nike Tablet is not bad,3,No,5
+1944,Smartphone,Fashion,HP,HP Smartphone is poor quality,2,Yes,5
+1945,Smartwatch,Accessories,Boat,Boat Smartwatch is product stopped working,1,No,6
+1946,Backpack,Fashion,HP,HP Backpack is very disappointed,1,No,5
+1947,Smartwatch,Accessories,Boat,Boat Smartwatch is could be better,3,No,6
+1948,Smartwatch,Fashion,Sony,Sony Smartwatch is waste of money,1,No,6
+1949,Tablet,Accessories,Samsung,Samsung Tablet is could be better,3,No,6
+1950,Smartwatch,Accessories,Nike,Nike Smartwatch is decent performance,3,No,5
+1951,Backpack,Accessories,Nike,Nike Backpack is worth the price,4,No,6
+1952,Tablet,Accessories,Sony,Sony Tablet is product stopped working,1,Yes,6
+1953,Headphones,Accessories,Nike,Nike Headphones is late delivery,1,Yes,5
+1954,Tablet,Fashion,Boat,Boat Tablet is average product,3,No,5
+1955,Shoes,Electronics,Samsung,Samsung Shoes is could be better,3,Yes,6
+1956,Backpack,Accessories,Dell,Dell Backpack is not bad,3,Yes,5
+1957,Smartwatch,Fashion,Dell,Dell Smartwatch is awesome performance,5,No,5
+1958,Smartphone,Electronics,Sony,Sony Smartphone is loved it,5,No,5
+1959,Smartphone,Accessories,Samsung,Samsung Smartphone is late delivery,2,No,5
+1960,Backpack,Fashion,Dell,Dell Backpack is fast delivery,4,No,5
+1961,Laptop,Accessories,Apple,Apple Laptop is average product,3,Yes,5
+1962,Laptop,Accessories,Dell,Dell Laptop is okay for the price,3,Yes,7
+1963,Tablet,Accessories,Dell,Dell Tablet is fast delivery,5,Yes,5
+1964,Laptop,Accessories,Sony,Sony Laptop is not bad,3,No,5
+1965,Camera,Electronics,Nike,Nike Camera is late delivery,1,No,5
+1966,Backpack,Electronics,HP,HP Backpack is excellent product,4,No,5
+1967,Smartwatch,Accessories,Adidas,Adidas Smartwatch is awesome performance,5,Yes,5
+1968,Shoes,Electronics,Sony,Sony Shoes is highly recommended,4,Yes,5
+1969,Smartphone,Accessories,Sony,Sony Smartphone is could be better,3,No,6
+1970,Smartwatch,Electronics,Boat,Boat Smartwatch is awesome performance,5,No,5
+1971,Smartwatch,Fashion,Boat,Boat Smartwatch is fast delivery,5,Yes,5
+1972,Camera,Fashion,Samsung,Samsung Camera is great value for money,4,Yes,7
+1973,Tablet,Electronics,HP,HP Tablet is poor quality,2,Yes,5
+1974,Headphones,Electronics,Apple,Apple Headphones is waste of money,1,Yes,6
+1975,Backpack,Electronics,HP,HP Backpack is great value for money,5,Yes,7
+1976,Shoes,Fashion,Apple,Apple Shoes is awesome performance,5,Yes,5
+1977,Camera,Fashion,Apple,Apple Camera is fast delivery,5,No,5
+1978,Shoes,Accessories,Boat,Boat Shoes is waste of money,2,Yes,6
+1979,Tablet,Fashion,Samsung,Samsung Tablet is decent performance,3,No,5
+1980,Headphones,Electronics,Samsung,Samsung Headphones is highly recommended,4,Yes,5
+1981,Smartphone,Accessories,Boat,Boat Smartphone is great value for money,4,No,7
+1982,Camera,Electronics,Sony,Sony Camera is late delivery,1,Yes,5
+1983,Backpack,Electronics,Apple,Apple Backpack is okay for the price,3,Yes,7
+1984,Camera,Fashion,Adidas,Adidas Camera is bad experience,2,No,5
+1985,Smartphone,Electronics,Dell,Dell Smartphone is excellent product,5,Yes,5
+1986,Headphones,Electronics,Sony,Sony Headphones is poor quality,2,Yes,5
+1987,Camera,Electronics,Apple,Apple Camera is bad experience,1,No,5
+1988,Headphones,Fashion,Samsung,Samsung Headphones is late delivery,2,No,5
+1989,Backpack,Accessories,Adidas,Adidas Backpack is product stopped working,1,Yes,6
+1990,Headphones,Accessories,Boat,Boat Headphones is cheap material,1,Yes,5
+1991,Laptop,Fashion,HP,HP Laptop is very good quality,4,Yes,6
+1992,Headphones,Fashion,Nike,Nike Headphones is very good quality,5,No,6
+1993,Shoes,Fashion,Sony,Sony Shoes is could be better,3,No,6
+1994,Camera,Electronics,Samsung,Samsung Camera is not satisfied,1,Yes,5
+1995,Smartwatch,Fashion,Sony,Sony Smartwatch is highly recommended,4,No,5
+1996,Backpack,Accessories,Boat,Boat Backpack is great value for money,5,No,7
+1997,Shoes,Electronics,Dell,Dell Shoes is bad experience,2,No,5
+1998,Backpack,Electronics,Adidas,Adidas Backpack is could be better,3,No,6
+1999,Laptop,Accessories,Adidas,Adidas Laptop is cheap material,2,No,5
+2000,Smartphone,Electronics,Sony,Sony Smartphone is awesome performance,5,Yes,5
